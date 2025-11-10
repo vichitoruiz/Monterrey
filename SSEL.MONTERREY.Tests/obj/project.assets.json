@@ -1714,11 +1714,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj",
       "projectName": "SSEL.MONTERREY.Tests",
-      "projectPath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj",
+      "projectPath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj",
       "packagesPath": "C:\\Users\\Vichitoruiz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\SSEL.MONTERREY.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1740,8 +1740,8 @@
         "net9.0-windows7.0": {
           "targetAlias": "net9.0-windows7.0",
           "projectReferences": {
-            "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\SSEL.MONTERREY.Licensing\\SSEL.MONTERREY.Licensing.csproj": {
-              "projectPath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\SSEL.MONTERREY.Licensing\\SSEL.MONTERREY.Licensing.csproj"
+            "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\SSEL.MONTERREY.Licensing.csproj": {
+              "projectPath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\SSEL.MONTERREY.Licensing.csproj"
             }
           }
         }

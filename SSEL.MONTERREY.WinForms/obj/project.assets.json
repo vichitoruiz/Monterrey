@@ -5132,11 +5132,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj",
+      "projectUniqueName": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj",
       "projectName": "SSEL.MONTERREY.WinForms",
-      "projectPath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj",
+      "projectPath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj",
       "packagesPath": "C:\\Users\\Vichitoruiz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\SSEL.MONTERREY.WinForms\\obj\\",
+      "outputPath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5158,14 +5158,14 @@
         "net9.0-windows7.0": {
           "targetAlias": "net9.0-windows7.0",
           "projectReferences": {
-            "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj": {
-              "projectPath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj"
+            "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj": {
+              "projectPath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj"
             },
-            "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj"
+            "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj"
             },
-            "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\SSEL.MONTERREY.Licensing\\SSEL.MONTERREY.Licensing.csproj": {
-              "projectPath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\SSEL.MONTERREY.Licensing\\SSEL.MONTERREY.Licensing.csproj"
+            "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\SSEL.MONTERREY.Licensing.csproj": {
+              "projectPath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\SSEL.MONTERREY.Licensing.csproj"
             }
           }
         }

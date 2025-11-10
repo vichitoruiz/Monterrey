@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JEMjK5x6tiA=",
+  "dgSpecHash": "BdKL7xZzUIU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vichitoruiz\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\Vichitoruiz\\.nuget\\packages\\fluentassertions\\8.8.0\\fluentassertions.8.8.0.nupkg.sha512",

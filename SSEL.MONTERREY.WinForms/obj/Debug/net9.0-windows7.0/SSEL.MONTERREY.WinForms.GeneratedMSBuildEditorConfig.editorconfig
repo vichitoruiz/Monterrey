@@ -9,7 +9,7 @@ build_property.XamlSourceGeneratorTracingFolder =
 build_property.TargetFramework = net9.0-windows7.0
 build_property.TargetFramework = net9.0-windows7.0
 build_property.ProjectTypeGuidsProperty = 
-build_property.MSBuildProjectFullPath = C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\SSEL.MONTERREY.WinForms\SSEL.MONTERREY.WinForms.csproj
+build_property.MSBuildProjectFullPath = C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\Monterrey\SSEL.MONTERREY.WinForms\SSEL.MONTERREY.WinForms.csproj
 build_property.RootNamespace = SSEL.MONTERREY.WinForms
 build_property.RootNamespace = SSEL.MONTERREY.WinForms
 build_property.DefineConstantsProperty = TRACE,DEBUG,NET,NET9_0,NETCOREAPP,WINDOWS,WINDOWS7_0,NET5_0_OR_GREATER,NET6_0_OR_GREATER,NET7_0_OR_GREATER,NET8_0_OR_GREATER,NET9_0_OR_GREATER,NETCOREAPP3_0_OR_GREATER,NETCOREAPP3_1_OR_GREATER,WINDOWS7_0_OR_GREATER,HAS_UNO,__UNO__,HAS_UNO_WINUI,__UNO_WINUI__,WINUI_WINDOWING,UNO_HAS_FRAMEWORKELEMENT_MEASUREOVERRIDE,UNO_HAS_NO_IDEPENDENCYOBJECT
@@ -21,7 +21,7 @@ build_property.MSBuildProjectName = SSEL.MONTERREY.WinForms
 build_property.BuildingProject = false
 build_property.DesignTimeBuild = true
 build_property.UnoUISourceGeneratorDebuggerBreak = 
-build_property.BuildingInsideVisualStudio = true
+build_property.BuildingInsideVisualStudio = 
 build_property.UnoPlatformIDE = 
 build_property.IsHotReloadHost = 
 build_property.UnoGenerateXamlSourcesProvider = 
@@ -37,17 +37,17 @@ build_property.UnoWinRTRuntimeIdentifier =
 build_property.UnoUIRuntimeIdentifier = 
 build_property.UnoHotReloadMode = 
 build_property.SolutionFileName = SSEL_MONTERREY.sln
-build_property.LangName = es-ES
-build_property.LangID = 3082
-build_property.SolutionDir = C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\
+build_property.LangName = 
+build_property.LangID = 
+build_property.SolutionDir = C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\Monterrey\
 build_property.SolutionExt = .sln
 build_property.UseHostCompilerIfAvailable = true
-build_property.DefineExplicitDefaults = true
+build_property.DefineExplicitDefaults = 
 build_property.Platform = AnyCPU
-build_property.SolutionPath = C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\SSEL_MONTERREY.sln
+build_property.SolutionPath = C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\Monterrey\SSEL_MONTERREY.sln
 build_property.SolutionName = SSEL_MONTERREY
-build_property.VSIDEResolvedNonMSBuildProjectOutputs = <VSIDEResolvedNonMSBuildProjectOutputs />
-build_property.DevEnvDir = C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\
+build_property.VSIDEResolvedNonMSBuildProjectOutputs = 
+build_property.DevEnvDir = *Undefined*
 build_property.MSBuildVersion = 17.13.26
 build_property.UseWPF = 
 build_property.UnoRemoteControlPort = 
@@ -79,47 +79,47 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.ProjectDir = C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\SSEL.MONTERREY.WinForms\
+build_property.ProjectDir = C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\Monterrey\SSEL.MONTERREY.WinForms\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Vichitoruiz/Downloads/Monterrey_FIXED/Monterrey/SSEL.MONTERREY.Infrastructure/SSEL.MONTERREY.Infrastructure.csproj]
+[C:/Users/Vichitoruiz/Downloads/Monterrey_FIXED/Monterrey/Monterrey/SSEL.MONTERREY.Infrastructure/SSEL.MONTERREY.Infrastructure.csproj]
 build_metadata.AdditionalFiles.SourceItemGroup = ProjectReference
 build_metadata.AdditionalFiles.SourceItemGroup = ProjectReference
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = 
 build_metadata.AdditionalFiles.TargetPath = 
-build_metadata.AdditionalFiles.FullPath = C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\SSEL.MONTERREY.Infrastructure\SSEL.MONTERREY.Infrastructure.csproj
-build_metadata.AdditionalFiles.FullPath = C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\SSEL.MONTERREY.Infrastructure\SSEL.MONTERREY.Infrastructure.csproj
-build_metadata.AdditionalFiles.Identity = C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\SSEL.MONTERREY.Infrastructure\SSEL.MONTERREY.Infrastructure.csproj
-build_metadata.AdditionalFiles.Identity = C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\SSEL.MONTERREY.Infrastructure\SSEL.MONTERREY.Infrastructure.csproj
+build_metadata.AdditionalFiles.FullPath = C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\Monterrey\SSEL.MONTERREY.Infrastructure\SSEL.MONTERREY.Infrastructure.csproj
+build_metadata.AdditionalFiles.FullPath = C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\Monterrey\SSEL.MONTERREY.Infrastructure\SSEL.MONTERREY.Infrastructure.csproj
+build_metadata.AdditionalFiles.Identity = C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\Monterrey\SSEL.MONTERREY.Infrastructure\SSEL.MONTERREY.Infrastructure.csproj
+build_metadata.AdditionalFiles.Identity = C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\Monterrey\SSEL.MONTERREY.Infrastructure\SSEL.MONTERREY.Infrastructure.csproj
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.XamlRuntime = 
 
-[C:/Users/Vichitoruiz/Downloads/Monterrey_FIXED/Monterrey/SSEL.MONTERREY.Licensing/SSEL.MONTERREY.Licensing.csproj]
+[C:/Users/Vichitoruiz/Downloads/Monterrey_FIXED/Monterrey/Monterrey/SSEL.MONTERREY.Licensing/SSEL.MONTERREY.Licensing.csproj]
 build_metadata.AdditionalFiles.SourceItemGroup = ProjectReference
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = 
-build_metadata.AdditionalFiles.FullPath = C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\SSEL.MONTERREY.Licensing\SSEL.MONTERREY.Licensing.csproj
-build_metadata.AdditionalFiles.Identity = C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\SSEL.MONTERREY.Licensing\SSEL.MONTERREY.Licensing.csproj
+build_metadata.AdditionalFiles.FullPath = C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\Monterrey\SSEL.MONTERREY.Licensing\SSEL.MONTERREY.Licensing.csproj
+build_metadata.AdditionalFiles.Identity = C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\Monterrey\SSEL.MONTERREY.Licensing\SSEL.MONTERREY.Licensing.csproj
 build_metadata.AdditionalFiles.XamlRuntime = 
 
-[C:/Users/Vichitoruiz/Downloads/Monterrey_FIXED/Monterrey/SSEL.MONTERREY.Application/SSEL.MONTERREY.Application.csproj]
+[C:/Users/Vichitoruiz/Downloads/Monterrey_FIXED/Monterrey/Monterrey/SSEL.MONTERREY.Application/SSEL.MONTERREY.Application.csproj]
 build_metadata.AdditionalFiles.SourceItemGroup = ProjectReference
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = 
-build_metadata.AdditionalFiles.FullPath = C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\SSEL.MONTERREY.Application\SSEL.MONTERREY.Application.csproj
-build_metadata.AdditionalFiles.Identity = C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\SSEL.MONTERREY.Application\SSEL.MONTERREY.Application.csproj
+build_metadata.AdditionalFiles.FullPath = C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\Monterrey\SSEL.MONTERREY.Application\SSEL.MONTERREY.Application.csproj
+build_metadata.AdditionalFiles.Identity = C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\Monterrey\SSEL.MONTERREY.Application\SSEL.MONTERREY.Application.csproj
 build_metadata.AdditionalFiles.XamlRuntime = 
 
-[C:/Users/Vichitoruiz/Downloads/Monterrey_FIXED/Monterrey/SSEL.MONTERREY.Domain/SSEL.MONTERREY.Domain.csproj]
+[C:/Users/Vichitoruiz/Downloads/Monterrey_FIXED/Monterrey/Monterrey/SSEL.MONTERREY.Domain/SSEL.MONTERREY.Domain.csproj]
 build_metadata.AdditionalFiles.SourceItemGroup = ProjectReference
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = 
-build_metadata.AdditionalFiles.FullPath = C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\SSEL.MONTERREY.Domain\SSEL.MONTERREY.Domain.csproj
-build_metadata.AdditionalFiles.Identity = C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\SSEL.MONTERREY.Domain\SSEL.MONTERREY.Domain.csproj
+build_metadata.AdditionalFiles.FullPath = C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\Monterrey\SSEL.MONTERREY.Domain\SSEL.MONTERREY.Domain.csproj
+build_metadata.AdditionalFiles.Identity = C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\Monterrey\SSEL.MONTERREY.Domain\SSEL.MONTERREY.Domain.csproj
 build_metadata.AdditionalFiles.XamlRuntime = 

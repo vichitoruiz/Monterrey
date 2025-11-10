@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DYY41nKxU44=",
+  "dgSpecHash": "yPPqPWJZuuk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vichitoruiz\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Vichitoruiz\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SSEL.MONTERREY.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+179bc7741e56828d97fa47c3ca4172e32d9c7cb0")]
 [assembly: System.Reflection.AssemblyProductAttribute("SSEL.MONTERREY.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SSEL.MONTERREY.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
