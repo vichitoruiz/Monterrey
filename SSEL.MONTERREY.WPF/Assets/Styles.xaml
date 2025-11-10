@@ -1,0 +1,23 @@
+﻿<ResourceDictionary 
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <!-- 🎨 Colores base (usa formato ARGB: #AARRGGBB) -->
+    <Color x:Key="AzulPrimarioColor">#FF004C91</Color>
+    <Color x:Key="VerdeAcentoColor">#FF46D69F</Color>
+    <Color x:Key="FondoColorClaro">#FFF4F4F4</Color>
+    <Color x:Key="TextoOscuroColor">#FF2D2D2D</Color>
+
+    <!-- 🧱 Recursos dinámicos -->
+    <SolidColorBrush x:Key="FondoColor" Color="{StaticResource FondoColorClaro}"/>
+    <SolidColorBrush x:Key="AzulPrimario" Color="{StaticResource AzulPrimarioColor}"/>
+    <SolidColorBrush x:Key="VerdeAcento" Color="{StaticResource VerdeAcentoColor}"/>
+    <SolidColorBrush x:Key="TextoPrimario" Color="{StaticResource TextoOscuroColor}"/>
+
+    <!-- 🅰️ Tipografía global -->
+    <Style TargetType="TextBlock">
+        <Setter Property="FontFamily" Value="Segoe UI"/>
+        <Setter Property="Foreground" Value="{StaticResource TextoPrimario}"/>
+    </Style>
+
+</ResourceDictionary>

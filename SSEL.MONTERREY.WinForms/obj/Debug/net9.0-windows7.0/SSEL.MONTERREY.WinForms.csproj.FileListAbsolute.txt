@@ -1,0 +1,2 @@
+C:\Users\Vichitoruiz\source\repos\Monterrey\SSEL.MONTERREY.WinForms\obj\Debug\net9.0-windows7.0\SSEL.MONTERREY.WinForms.csproj.AssemblyReference.cache
+C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\SSEL.MONTERREY.WinForms\obj\Debug\net9.0-windows7.0\SSEL.MONTERREY.WinForms.csproj.AssemblyReference.cache

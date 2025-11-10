@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ActiveDebugProfile>SSEL.MONTERREY.WinForms</ActiveDebugProfile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Forms\FrmAcercaDe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmConfiguracion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmLecturas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmRecibos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmReclamos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAcercaDe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmConfiguracion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmLecturas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmRecibos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmReclamos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

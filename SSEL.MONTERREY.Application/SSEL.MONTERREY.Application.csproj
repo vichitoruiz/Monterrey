@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+	  <TargetFramework>net9.0-windows7.0</TargetFramework>
+	  <EnableWindowsTargeting>true</EnableWindowsTargeting>
+	  <UseWindowsForms>true</UseWindowsForms>
+    <LangVersion>preview</LangVersion>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SSEL.MONTERREY.Domain\SSEL.MONTERREY.Domain.csproj" />
+    <ProjectReference Include="..\SSEL.MONTERREY.Licensing\SSEL.MONTERREY.Licensing.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="../SSEL.MONTERREY.Domain/SSEL.MONTERREY.Domain.csproj" />
+  </ItemGroup>
+</Project>

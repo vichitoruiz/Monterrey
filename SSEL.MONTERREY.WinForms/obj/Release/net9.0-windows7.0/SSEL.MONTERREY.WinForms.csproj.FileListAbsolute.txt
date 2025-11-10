@@ -1,0 +1,12 @@
+C:\Users\Vichitoruiz\Desktop\Electro Monterrey\Software\SSEL.MONTERREY.WinForms\obj\Release\net9.0-windows7.0\SSEL.MONTERREY.WinForms.Forms.FrmAcercaDe.resources
+C:\Users\Vichitoruiz\Desktop\Electro Monterrey\Software\SSEL.MONTERREY.WinForms\obj\Release\net9.0-windows7.0\SSEL.MONTERREY.WinForms.Forms.FrmConfiguracion.resources
+C:\Users\Vichitoruiz\Desktop\Electro Monterrey\Software\SSEL.MONTERREY.WinForms\obj\Release\net9.0-windows7.0\SSEL.MONTERREY.WinForms.Forms.FrmLecturas.resources
+C:\Users\Vichitoruiz\Desktop\Electro Monterrey\Software\SSEL.MONTERREY.WinForms\obj\Release\net9.0-windows7.0\SSEL.MONTERREY.WinForms.Forms.FrmRecibos.resources
+C:\Users\Vichitoruiz\Desktop\Electro Monterrey\Software\SSEL.MONTERREY.WinForms\obj\Release\net9.0-windows7.0\SSEL.MONTERREY.WinForms.Forms.FrmReclamos.resources
+C:\Users\Vichitoruiz\Desktop\Electro Monterrey\Software\SSEL.MONTERREY.WinForms\obj\Release\net9.0-windows7.0\SSEL.MONTERREY.WinForms.Forms.FrmUsuarios.resources
+C:\Users\Vichitoruiz\Desktop\Electro Monterrey\Software\SSEL.MONTERREY.WinForms\obj\Release\net9.0-windows7.0\SSEL.MONTERREY.WinForms.Forms.FrmDashboard.resources
+C:\Users\Vichitoruiz\Desktop\Electro Monterrey\Software\SSEL.MONTERREY.WinForms\obj\Release\net9.0-windows7.0\SSEL.MONTERREY.WinForms.csproj.GenerateResource.cache
+C:\Users\Vichitoruiz\Desktop\Electro Monterrey\Software\SSEL.MONTERREY.WinForms\obj\Release\net9.0-windows7.0\SSEL.MONTERREY.WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vichitoruiz\Desktop\Electro Monterrey\Software\SSEL.MONTERREY.WinForms\obj\Release\net9.0-windows7.0\SSEL.MONTERREY.WinForms.AssemblyInfoInputs.cache
+C:\Users\Vichitoruiz\Desktop\Electro Monterrey\Software\SSEL.MONTERREY.WinForms\obj\Release\net9.0-windows7.0\SSEL.MONTERREY.WinForms.AssemblyInfo.cs
+C:\Users\Vichitoruiz\Desktop\Electro Monterrey\Software\SSEL.MONTERREY.WinForms\obj\Release\net9.0-windows7.0\SSEL.MONTERREY.WinForms.csproj.CoreCompileInputs.cache

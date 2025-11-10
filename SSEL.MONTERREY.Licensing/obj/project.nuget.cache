@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "F3K163PjRKg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\SSEL.MONTERREY.Licensing\\SSEL.MONTERREY.Licensing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vichitoruiz\\.nuget\\packages\\system.codedom\\9.0.10\\system.codedom.9.0.10.nupkg.sha512",
+    "C:\\Users\\Vichitoruiz\\.nuget\\packages\\system.management\\9.0.10\\system.management.9.0.10.nupkg.sha512",
+    "C:\\Users\\Vichitoruiz\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.306\\microsoft.net.sdk.compilers.toolset.9.0.306.nupkg.sha512"
+  ],
+  "logs": []
+}

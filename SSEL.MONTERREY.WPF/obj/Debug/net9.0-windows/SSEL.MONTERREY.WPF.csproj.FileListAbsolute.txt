@@ -1,0 +1,7 @@
+C:\Users\Vichitoruiz\Desktop\Electro Monterrey\Software\SSEL.MONTERREY.WPF\obj\Debug\net9.0-windows\Views\Configuracion.baml
+C:\Users\Vichitoruiz\Desktop\Electro Monterrey\Software\SSEL.MONTERREY.WPF\obj\Debug\net9.0-windows\App.baml
+C:\Users\Vichitoruiz\Desktop\Electro Monterrey\Software\SSEL.MONTERREY.WPF\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\Vichitoruiz\Desktop\Electro Monterrey\Software\SSEL.MONTERREY.WPF\obj\Debug\net9.0-windows\Views\Configuracion.g.cs
+C:\Users\Vichitoruiz\Desktop\Electro Monterrey\Software\SSEL.MONTERREY.WPF\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\Vichitoruiz\Desktop\Electro Monterrey\Software\SSEL.MONTERREY.WPF\obj\Debug\net9.0-windows\SSEL.MONTERREY.WPF_MarkupCompile.cache
+C:\Users\Vichitoruiz\Desktop\Electro Monterrey\Software\SSEL.MONTERREY.WPF\obj\Debug\net9.0-windows\SSEL.MONTERREY.WPF_MarkupCompile.lref
