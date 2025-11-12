@@ -1,0 +1,6 @@
+C:\Users\Vichitoruiz\Desktop\Electro Monterrey\Software\SSEL.MONTERREY.Licensing\obj\Debug\net9.0-windows\SSEL.MONTERREY.Licensing.LicenseForm.resources
+C:\Users\Vichitoruiz\Desktop\Electro Monterrey\Software\SSEL.MONTERREY.Licensing\obj\Debug\net9.0-windows\SSEL.MONTERREY.Licensing.csproj.GenerateResource.cache
+C:\Users\Vichitoruiz\Desktop\Electro Monterrey\Software\SSEL.MONTERREY.Licensing\obj\Debug\net9.0-windows\SSEL.MONTERREY.Licensing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vichitoruiz\Desktop\Electro Monterrey\Software\SSEL.MONTERREY.Licensing\obj\Debug\net9.0-windows\SSEL.MONTERREY.Licensing.AssemblyInfoInputs.cache
+C:\Users\Vichitoruiz\Desktop\Electro Monterrey\Software\SSEL.MONTERREY.Licensing\obj\Debug\net9.0-windows\SSEL.MONTERREY.Licensing.AssemblyInfo.cs
+C:\Users\Vichitoruiz\Desktop\Electro Monterrey\Software\SSEL.MONTERREY.Licensing\obj\Debug\net9.0-windows\SSEL.MONTERREY.Licensing.csproj.CoreCompileInputs.cache

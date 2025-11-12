@@ -1,0 +1,12 @@
+C:\Users\Vichitoruiz\source\repos\Monterrey\SSEL.MONTERREY.Tests\bin\Debug\net9.0-windows7.0\.msCoverageSourceRootsMapping_SSEL.MONTERREY.Tests
+C:\Users\Vichitoruiz\source\repos\Monterrey\SSEL.MONTERREY.Tests\obj\Debug\net9.0-windows7.0\SSEL.MONTERREY.Tests.csproj.AssemblyReference.cache
+C:\Users\Vichitoruiz\source\repos\Monterrey\SSEL.MONTERREY.Tests\obj\Debug\net9.0-windows7.0\SSEL.MONTERREY.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vichitoruiz\source\repos\Monterrey\SSEL.MONTERREY.Tests\obj\Debug\net9.0-windows7.0\SSEL.MONTERREY.Tests.AssemblyInfoInputs.cache
+C:\Users\Vichitoruiz\source\repos\Monterrey\SSEL.MONTERREY.Tests\obj\Debug\net9.0-windows7.0\SSEL.MONTERREY.Tests.AssemblyInfo.cs
+C:\Users\Vichitoruiz\source\repos\Monterrey\SSEL.MONTERREY.Tests\obj\Debug\net9.0-windows7.0\SSEL.MONTERREY.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\SSEL.MONTERREY.Tests\bin\Debug\net9.0-windows7.0\.msCoverageSourceRootsMapping_SSEL.MONTERREY.Tests
+C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\SSEL.MONTERREY.Tests\obj\Debug\net9.0-windows7.0\SSEL.MONTERREY.Tests.csproj.AssemblyReference.cache
+C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\SSEL.MONTERREY.Tests\obj\Debug\net9.0-windows7.0\SSEL.MONTERREY.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\SSEL.MONTERREY.Tests\obj\Debug\net9.0-windows7.0\SSEL.MONTERREY.Tests.AssemblyInfoInputs.cache
+C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\SSEL.MONTERREY.Tests\obj\Debug\net9.0-windows7.0\SSEL.MONTERREY.Tests.AssemblyInfo.cs
+C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\SSEL.MONTERREY.Tests\obj\Debug\net9.0-windows7.0\SSEL.MONTERREY.Tests.csproj.CoreCompileInputs.cache

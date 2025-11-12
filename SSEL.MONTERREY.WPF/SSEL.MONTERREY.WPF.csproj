@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows7.0</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>false</UseWindowsForms>
+    <EnableWindowsTargeting>true</EnableWindowsTargeting>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="MainWindow.xaml.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Remove="MainWindow.xaml" />
+  </ItemGroup>
+  <!-- Referencias entre proyectos -->
+  <ItemGroup>
+    <ProjectReference Include="..\SSEL.MONTERREY.Application\SSEL.MONTERREY.Application.csproj" />
+    <ProjectReference Include="..\SSEL.MONTERREY.Infrastructure\SSEL.MONTERREY.Infrastructure.csproj" />
+    <ProjectReference Include="..\SSEL.MONTERREY.Licensing\SSEL.MONTERREY.Licensing.csproj" />
+  </ItemGroup>
+  <!-- Carpetas y activos -->
+  <ItemGroup>
+    <Folder Include="Assets\Fonts\" />
+  </ItemGroup>
+  <!-- Paquetes externos -->
+</Project>

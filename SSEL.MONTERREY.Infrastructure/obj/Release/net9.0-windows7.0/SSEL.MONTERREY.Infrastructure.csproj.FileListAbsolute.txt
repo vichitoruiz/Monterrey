@@ -1,0 +1,5 @@
+C:\Users\Vichitoruiz\Desktop\Electro Monterrey\Software\SSEL.MONTERREY.Infrastructure\obj\Release\net9.0-windows7.0\SSEL.MONTERREY.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Vichitoruiz\Desktop\Electro Monterrey\Software\SSEL.MONTERREY.Infrastructure\obj\Release\net9.0-windows7.0\SSEL.MONTERREY.Infrastructure.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vichitoruiz\Desktop\Electro Monterrey\Software\SSEL.MONTERREY.Infrastructure\obj\Release\net9.0-windows7.0\SSEL.MONTERREY.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Vichitoruiz\Desktop\Electro Monterrey\Software\SSEL.MONTERREY.Infrastructure\obj\Release\net9.0-windows7.0\SSEL.MONTERREY.Infrastructure.AssemblyInfo.cs
+C:\Users\Vichitoruiz\Desktop\Electro Monterrey\Software\SSEL.MONTERREY.Infrastructure\obj\Release\net9.0-windows7.0\SSEL.MONTERREY.Infrastructure.csproj.CoreCompileInputs.cache
