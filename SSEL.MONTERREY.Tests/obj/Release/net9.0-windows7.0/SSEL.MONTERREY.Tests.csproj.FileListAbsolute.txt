@@ -1,6 +1,0 @@
-C:\Users\Vichitoruiz\Desktop\Electro Monterrey\Software\SSEL.MONTERREY.Tests\bin\Release\net9.0-windows7.0\.msCoverageSourceRootsMapping_SSEL.MONTERREY.Tests
-C:\Users\Vichitoruiz\Desktop\Electro Monterrey\Software\SSEL.MONTERREY.Tests\obj\Release\net9.0-windows7.0\SSEL.MONTERREY.Tests.csproj.AssemblyReference.cache
-C:\Users\Vichitoruiz\Desktop\Electro Monterrey\Software\SSEL.MONTERREY.Tests\obj\Release\net9.0-windows7.0\SSEL.MONTERREY.Tests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Vichitoruiz\Desktop\Electro Monterrey\Software\SSEL.MONTERREY.Tests\obj\Release\net9.0-windows7.0\SSEL.MONTERREY.Tests.AssemblyInfoInputs.cache
-C:\Users\Vichitoruiz\Desktop\Electro Monterrey\Software\SSEL.MONTERREY.Tests\obj\Release\net9.0-windows7.0\SSEL.MONTERREY.Tests.AssemblyInfo.cs
-C:\Users\Vichitoruiz\Desktop\Electro Monterrey\Software\SSEL.MONTERREY.Tests\obj\Release\net9.0-windows7.0\SSEL.MONTERREY.Tests.csproj.CoreCompileInputs.cache
