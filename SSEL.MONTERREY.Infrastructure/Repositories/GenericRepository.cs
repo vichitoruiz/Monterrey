@@ -1,9 +1,10 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.Linq;
-using System;
 using System.Linq.Expressions;
 using System.Threading.Tasks;
+using SSEL.MONTERREY.Domain.Repositories;
 
 namespace SSEL.MONTERREY.Infrastructure.Repositories;
 

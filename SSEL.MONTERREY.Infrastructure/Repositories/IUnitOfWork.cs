@@ -1,6 +1,6 @@
 ﻿using SSEL.MONTERREY.Infrastructure.Data;
-using System.Threading.Tasks;
 using System;
+using System.Threading.Tasks;
 
 namespace SSEL.MONTERREY.Infrastructure.Repositories;
 

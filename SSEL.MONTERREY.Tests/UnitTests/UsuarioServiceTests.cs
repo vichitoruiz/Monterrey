@@ -21,7 +21,7 @@ public class UsuarioServiceTests
         var mapper = new MapperConfiguration(cfg => cfg.AddProfile(new AutoMapperProfile())).CreateMapper();
         var service = new UsuarioService(repo, mapper);
 
-        var dto = new SSEL.MONTERREY.Application.DTOs.UsuarioDTO
+        var dto = new SSEL.MONTERREY.Application.DTOs.UsuarioDto
         {
             Nombres = "Victor",
             Apellidos = "Ruiz Díaz",

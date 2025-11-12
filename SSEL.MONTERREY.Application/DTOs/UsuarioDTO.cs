@@ -1,6 +1,6 @@
 ﻿namespace SSEL.MONTERREY.Application.DTOs;
 
-public class UsuarioDTO
+public class UsuarioDto
 {
     public int Id { get; set; }
     public string Nombres { get; set; } = "";

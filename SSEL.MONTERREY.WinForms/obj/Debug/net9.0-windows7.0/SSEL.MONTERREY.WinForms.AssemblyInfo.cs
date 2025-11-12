@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SSEL.MONTERREY.WinForms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b7154649980b38e3018c41b81da9f7568c8f419")]
 [assembly: System.Reflection.AssemblyProductAttribute("SSEL.MONTERREY.WinForms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SSEL.MONTERREY.WinForms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

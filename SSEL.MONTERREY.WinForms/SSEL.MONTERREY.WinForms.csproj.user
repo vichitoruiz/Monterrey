@@ -52,8 +52,5 @@
     <Compile Update="FrmReclamos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FrmUsuarios.cs">
-      <SubType>Form</SubType>
-    </Compile>
   </ItemGroup>
 </Project>

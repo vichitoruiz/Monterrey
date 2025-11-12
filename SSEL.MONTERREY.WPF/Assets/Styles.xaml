@@ -1,23 +1,65 @@
-﻿<ResourceDictionary 
-    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
 
-    <!-- 🎨 Colores base (usa formato ARGB: #AARRGGBB) -->
-    <Color x:Key="AzulPrimarioColor">#FF004C91</Color>
-    <Color x:Key="VerdeAcentoColor">#FF46D69F</Color>
-    <Color x:Key="FondoColorClaro">#FFF4F4F4</Color>
-    <Color x:Key="TextoOscuroColor">#FF2D2D2D</Color>
+    <!-- ===================================================
+         🧩 ESTILOS GLOBALES
+         Este archivo no define colores fijos: usa los del tema activo.
+    ==================================================== -->
 
-    <!-- 🧱 Recursos dinámicos -->
-    <SolidColorBrush x:Key="FondoColor" Color="{StaticResource FondoColorClaro}"/>
-    <SolidColorBrush x:Key="AzulPrimario" Color="{StaticResource AzulPrimarioColor}"/>
-    <SolidColorBrush x:Key="VerdeAcento" Color="{StaticResource VerdeAcentoColor}"/>
-    <SolidColorBrush x:Key="TextoPrimario" Color="{StaticResource TextoOscuroColor}"/>
+    <!-- 🔘 Botón -->
+    <Style TargetType="Button">
+        <Setter Property="Background" Value="{DynamicResource SecundarioBrush}"/>
+        <Setter Property="Foreground" Value="White"/>
+        <Setter Property="FontFamily" Value="{DynamicResource FuenteGeneral}"/>
+        <Setter Property="FontSize" Value="14"/>
+        <Setter Property="Padding" Value="10,6"/>
+        <Setter Property="Margin" Value="5"/>
+        <Setter Property="BorderThickness" Value="0"/>
+        <Setter Property="Cursor" Value="Hand"/>
+        <Setter Property="SnapsToDevicePixels" Value="True"/>
 
-    <!-- 🅰️ Tipografía global -->
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="{TemplateBinding Background}"
+                            CornerRadius="4"
+                            Padding="{TemplateBinding Padding}">
+                        <ContentPresenter HorizontalAlignment="Center"
+                                          VerticalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="True">
+                <Setter Property="Background" Value="{DynamicResource PrimarioBrush}"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+
+    <!-- 🧾 TextBlock -->
     <Style TargetType="TextBlock">
-        <Setter Property="FontFamily" Value="Segoe UI"/>
-        <Setter Property="Foreground" Value="{StaticResource TextoPrimario}"/>
+        <Setter Property="Foreground" Value="{DynamicResource TextoPrimario}"/>
+        <Setter Property="FontFamily" Value="{DynamicResource FuenteGeneral}"/>
+    </Style>
+
+    <!-- ✏️ TextBox -->
+    <Style TargetType="TextBox">
+        <Setter Property="Foreground" Value="{DynamicResource TextoPrimario}"/>
+        <Setter Property="Background" Value="{DynamicResource FondoColor}"/>
+        <Setter Property="BorderBrush" Value="{DynamicResource BordeBrush}"/>
+        <Setter Property="BorderThickness" Value="1"/>
+        <Setter Property="FontFamily" Value="{DynamicResource FuenteGeneral}"/>
+        <Setter Property="Margin" Value="5"/>
+        <Setter Property="Padding" Value="6,4"/>
+    </Style>
+
+    <!-- 🏷 Label -->
+    <Style TargetType="Label">
+        <Setter Property="Foreground" Value="{DynamicResource TextoPrimario}"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="FontFamily" Value="{DynamicResource FuenteGeneral}"/>
     </Style>
 
 </ResourceDictionary>

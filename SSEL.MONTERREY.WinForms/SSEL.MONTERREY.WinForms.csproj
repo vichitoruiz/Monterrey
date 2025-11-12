@@ -1,23 +1,15 @@
-﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
-  <PropertyGroup>
-	  <TargetFramework>net9.0-windows7.0</TargetFramework>
-	  <EnableWindowsTargeting>true</EnableWindowsTargeting>
-	  <UseWindowsForms>true</UseWindowsForms>
-    <UseWindowsForms>true</UseWindowsForms>
-    <EnableWindowsTargeting>true</EnableWindowsTargeting>
-    <Nullable>enable</Nullable>
-  </PropertyGroup>
-  <ItemGroup>
-    <Folder Include="Assets\Icons\" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\SSEL.MONTERREY.Infrastructure\SSEL.MONTERREY.Infrastructure.csproj" />
-    <ProjectReference Include="..\SSEL.MONTERREY.Licensing\SSEL.MONTERREY.Licensing.csproj" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="../SSEL.MONTERREY.Application/SSEL.MONTERREY.Application.csproj" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="../SSEL.MONTERREY.Infrastructure/SSEL.MONTERREY.Infrastructure.csproj" />
-  </ItemGroup>
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net9.0-windows7.0</TargetFramework>
+		<UseWindowsForms>true</UseWindowsForms>
+		<EnableWindowsTargeting>true</EnableWindowsTargeting>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\SSEL.MONTERREY.Domain\SSEL.MONTERREY.Domain.csproj" />
+		<ProjectReference Include="..\SSEL.MONTERREY.Application\SSEL.MONTERREY.Application.csproj" />
+		<ProjectReference Include="..\SSEL.MONTERREY.Infrastructure\SSEL.MONTERREY.Infrastructure.csproj" />
+		<ProjectReference Include="..\SSEL.MONTERREY.Licensing\SSEL.MONTERREY.Licensing.csproj" />
+	</ItemGroup>
 </Project>

@@ -7,6 +7,6 @@ namespace SSEL.MONTERREY.Application.Interfaces;
 
 public interface IReciboService
 {
-    Task<IEnumerable<ReciboDTO>> ListarPorPeriodoAsync(string periodo);
+    Task<IEnumerable<ReciboDto>> ListarPorPeriodoAsync(string periodo);
     Task<Result> GenerarReciboAsync(int usuarioId, int lecturaId);
 }

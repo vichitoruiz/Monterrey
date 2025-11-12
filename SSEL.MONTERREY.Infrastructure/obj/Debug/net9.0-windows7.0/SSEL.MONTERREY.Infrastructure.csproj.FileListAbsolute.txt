@@ -8,9 +8,3 @@ C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\SSEL.MONTERREY.Infrastr
 C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\SSEL.MONTERREY.Infrastructure\obj\Debug\net9.0-windows7.0\SSEL.MONTERREY.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\SSEL.MONTERREY.Infrastructure\obj\Debug\net9.0-windows7.0\SSEL.MONTERREY.Infrastructure.AssemblyInfo.cs
 C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\SSEL.MONTERREY.Infrastructure\obj\Debug\net9.0-windows7.0\SSEL.MONTERREY.Infrastructure.csproj.CoreCompileInputs.cache
-C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\Monterrey\SSEL.MONTERREY.Infrastructure\obj\Debug\net9.0-windows7.0\SSEL.MONTERREY.Infrastructure.csproj.AssemblyReference.cache
-C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\Monterrey\SSEL.MONTERREY.Infrastructure\obj\Debug\net9.0-windows7.0\SSEL.MONTERREY.Infrastructure.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\Monterrey\SSEL.MONTERREY.Infrastructure\obj\Debug\net9.0-windows7.0\SSEL.MONTERREY.Infrastructure.AssemblyInfoInputs.cache
-C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\Monterrey\SSEL.MONTERREY.Infrastructure\obj\Debug\net9.0-windows7.0\SSEL.MONTERREY.Infrastructure.AssemblyInfo.cs
-C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\Monterrey\SSEL.MONTERREY.Infrastructure\obj\Debug\net9.0-windows7.0\SSEL.MONTERREY.Infrastructure.csproj.CoreCompileInputs.cache
-C:\Users\Vichitoruiz\Downloads\Monterrey_FIXED\Monterrey\Monterrey\SSEL.MONTERREY.Infrastructure\obj\Debug\net9.0-windows7.0\SSEL.MONTERREY.Infrastructure.sourcelink.json

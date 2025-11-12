@@ -3,26 +3,128 @@
   "WorkspaceRootPath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.NET.Sdk.WindowsDesktop.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\ssel.monterrey.wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\ssel.monterrey.wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\Directory.Packages.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Directory.Packages.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.winforms\\frmacercade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|solutionrelative:ssel.monterrey.winforms\\frmacercade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.CSharp.Core.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.winforms\\ssel.monterrey.winforms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|solutionrelative:ssel.monterrey.winforms\\ssel.monterrey.winforms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.application\\ssel.monterrey.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj|solutionrelative:ssel.monterrey.application\\ssel.monterrey.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.domain\\ssel.monterrey.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj|solutionrelative:ssel.monterrey.domain\\ssel.monterrey.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.infrastructure\\ssel.monterrey.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj|solutionrelative:ssel.monterrey.infrastructure\\ssel.monterrey.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D10083C-9733-4549-9E05-309F5B54807B}|SSEL.MONTERREY.Licensing\\SSEL.MONTERREY.Licensing.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.licensing\\ssel.monterrey.licensing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2D10083C-9733-4549-9E05-309F5B54807B}|SSEL.MONTERREY.Licensing\\SSEL.MONTERREY.Licensing.csproj|solutionrelative:ssel.monterrey.licensing\\ssel.monterrey.licensing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66666666-6666-6666-6666-666666666666}|SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.tests\\ssel.monterrey.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{66666666-6666-6666-6666-666666666666}|SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj|solutionrelative:ssel.monterrey.tests\\ssel.monterrey.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.application\\ssel.monterrey.application.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj|solutionrelative:ssel.monterrey.application\\ssel.monterrey.application.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.application\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj|solutionrelative:ssel.monterrey.application\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.application\\services\\lecturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj|solutionrelative:ssel.monterrey.application\\services\\lecturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.infrastructure\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj|solutionrelative:ssel.monterrey.infrastructure\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj|solutionrelative:ssel.monterrey.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.infrastructure\\ssel.monterrey.infrastructure.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj|solutionrelative:ssel.monterrey.infrastructure\\ssel.monterrey.infrastructure.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.infrastructure\\data\\sselcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj|solutionrelative:ssel.monterrey.infrastructure\\data\\sselcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.domain\\entities\\recibo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj|solutionrelative:ssel.monterrey.domain\\entities\\recibo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.application\\interfaces\\ireciboservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj|solutionrelative:ssel.monterrey.application\\interfaces\\ireciboservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.application\\helpers\\recibocalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj|solutionrelative:ssel.monterrey.application\\helpers\\recibocalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.application\\services\\reciboservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj|solutionrelative:ssel.monterrey.application\\services\\reciboservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\assets\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\assets\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.application\\mappers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj|solutionrelative:ssel.monterrey.application\\mappers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66666666-6666-6666-6666-666666666666}|SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.tests\\unittests\\usuarioservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66666666-6666-6666-6666-666666666666}|SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj|solutionrelative:ssel.monterrey.tests\\unittests\\usuarioservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.application\\interfaces\\ilecturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj|solutionrelative:ssel.monterrey.application\\interfaces\\ilecturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.application\\dtos\\lecturadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj|solutionrelative:ssel.monterrey.application\\dtos\\lecturadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66666666-6666-6666-6666-666666666666}|SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.tests\\testhelpers\\testdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66666666-6666-6666-6666-666666666666}|SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj|solutionrelative:ssel.monterrey.tests\\testhelpers\\testdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.application\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj|solutionrelative:ssel.monterrey.application\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.application\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj|solutionrelative:ssel.monterrey.application\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66666666-6666-6666-6666-666666666666}|SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.tests\\integrationtests\\apiperuclienttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66666666-6666-6666-6666-666666666666}|SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj|solutionrelative:ssel.monterrey.tests\\integrationtests\\apiperuclienttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj|solutionrelative:ssel.monterrey.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66666666-6666-6666-6666-666666666666}|SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.tests\\unittests\\fosecalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66666666-6666-6666-6666-666666666666}|SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj|solutionrelative:ssel.monterrey.tests\\unittests\\fosecalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.NET.Sdk.WindowsDesktop.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.domain\\entities\\reclamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,24 +139,8 @@
       "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj|solutionrelative:ssel.monterrey.domain\\entities\\suministro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.domain\\entities\\recibo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj|solutionrelative:ssel.monterrey.domain\\entities\\recibo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.domain\\entities\\lectura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj|solutionrelative:ssel.monterrey.domain\\entities\\lectura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.domain\\entities\\fose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -93,130 +179,23 @@
       "RelativeMoniker": "D:0:0:{2D10083C-9733-4549-9E05-309F5B54807B}|SSEL.MONTERREY.Licensing\\SSEL.MONTERREY.Licensing.csproj|solutionrelative:ssel.monterrey.licensing\\licenseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D10083C-9733-4549-9E05-309F5B54807B}|SSEL.MONTERREY.Licensing\\SSEL.MONTERREY.Licensing.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.licensing\\ssel.monterrey.licensing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2D10083C-9733-4549-9E05-309F5B54807B}|SSEL.MONTERREY.Licensing\\SSEL.MONTERREY.Licensing.csproj|solutionrelative:ssel.monterrey.licensing\\ssel.monterrey.licensing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.winforms\\frmconfiguracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|solutionrelative:ssel.monterrey.winforms\\frmconfiguracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\viewmodels\\estadisticasvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\viewmodels\\estadisticasvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.winforms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|solutionrelative:ssel.monterrey.winforms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.winforms\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|solutionrelative:ssel.monterrey.winforms\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{66666666-6666-6666-6666-666666666666}|SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.tests\\unittests\\reciboservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66666666-6666-6666-6666-666666666666}|SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj|solutionrelative:ssel.monterrey.tests\\unittests\\reciboservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\ssel.monterrey.wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\ssel.monterrey.wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\ssel.monterrey.wpf.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\ssel.monterrey.wpf.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\views\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\views\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.CSharp.Core.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\ssel.monterrey.winforms\\frmconfiguracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|solutionrelative:ssel.monterrey.winforms\\frmconfiguracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.domain\\ssel.monterrey.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj|solutionrelative:ssel.monterrey.domain\\ssel.monterrey.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.infrastructure\\ssel.monterrey.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj|solutionrelative:ssel.monterrey.infrastructure\\ssel.monterrey.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\views\\estadisticas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\views\\estadisticas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.infrastructure\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj|solutionrelative:ssel.monterrey.infrastructure\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66666666-6666-6666-6666-666666666666}|SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.tests\\ssel.monterrey.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{66666666-6666-6666-6666-666666666666}|SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj|solutionrelative:ssel.monterrey.tests\\ssel.monterrey.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.infrastructure\\services\\recibocalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj|solutionrelative:ssel.monterrey.infrastructure\\services\\recibocalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.infrastructure\\services\\apiperuclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj|solutionrelative:ssel.monterrey.infrastructure\\services\\apiperuclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|solutionrelative:ssel.monterrey.winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.infrastructure\\services\\fosecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj|solutionrelative:ssel.monterrey.infrastructure\\services\\fosecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66666666-6666-6666-6666-666666666666}|SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.tests\\unittests\\fosecalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66666666-6666-6666-6666-666666666666}|SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj|solutionrelative:ssel.monterrey.tests\\unittests\\fosecalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\ssel.monterrey.winforms\\frmreclamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|solutionrelative:ssel.monterrey.winforms\\frmreclamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\ssel.monterrey.winforms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|solutionrelative:ssel.monterrey.winforms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\ssel.monterrey.winforms\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|solutionrelative:ssel.monterrey.winforms\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\ssel.monterrey.winforms\\frmlecturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|solutionrelative:ssel.monterrey.winforms\\frmlecturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.winforms\\frmrecibos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|solutionrelative:ssel.monterrey.winforms\\frmrecibos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.winforms\\frmlecturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|solutionrelative:ssel.monterrey.winforms\\frmlecturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{66666666-6666-6666-6666-666666666666}|SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.tests\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{66666666-6666-6666-6666-666666666666}|SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj|solutionrelative:ssel.monterrey.tests\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66666666-6666-6666-6666-666666666666}|SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.tests\\integrationtests\\apiperuclienttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66666666-6666-6666-6666-666666666666}|SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj|solutionrelative:ssel.monterrey.tests\\integrationtests\\apiperuclienttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66666666-6666-6666-6666-666666666666}|SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.tests\\unittests\\usuarioservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66666666-6666-6666-6666-666666666666}|SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj|solutionrelative:ssel.monterrey.tests\\unittests\\usuarioservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66666666-6666-6666-6666-666666666666}|SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.tests\\testhelpers\\testdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66666666-6666-6666-6666-666666666666}|SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj|solutionrelative:ssel.monterrey.tests\\testhelpers\\testdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D10083C-9733-4549-9E05-309F5B54807B}|SSEL.MONTERREY.Licensing\\SSEL.MONTERREY.Licensing.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.licensing\\ssel.monterrey.licensing.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -239,70 +218,6 @@
       "RelativeMoniker": "D:0:0:{66666666-6666-6666-6666-666666666666}|SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj|solutionrelative:ssel.monterrey.tests\\unittests\\lecturaservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.winforms\\frmreclamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|solutionrelative:ssel.monterrey.winforms\\frmreclamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.winforms\\ssel.monterrey.winforms.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|solutionrelative:ssel.monterrey.winforms\\ssel.monterrey.winforms.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\viewmodels\\configuracionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\viewmodels\\configuracionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\views\\configuracion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\views\\configuracion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.winforms\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|solutionrelative:ssel.monterrey.winforms\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.winforms\\utils\\thememanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|solutionrelative:ssel.monterrey.winforms\\utils\\thememanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\ssel.monterrey.winforms\\utils\\thememanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|solutionrelative:ssel.monterrey.winforms\\utils\\thememanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.winforms\\utils\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|solutionrelative:ssel.monterrey.winforms\\utils\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.winforms\\utils\\licensechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|solutionrelative:ssel.monterrey.winforms\\utils\\licensechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\ssel.monterrey.winforms\\forms\\frmacercade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|solutionrelative:ssel.monterrey.winforms\\forms\\frmacercade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\ssel.monterrey.winforms\\forms\\frmconfiguracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|solutionrelative:ssel.monterrey.winforms\\forms\\frmconfiguracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\ssel.monterrey.winforms\\forms\\frmreclamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|solutionrelative:ssel.monterrey.winforms\\forms\\frmreclamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\ssel.monterrey.winforms\\forms\\frmrecibos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|solutionrelative:ssel.monterrey.winforms\\forms\\frmrecibos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\ssel.monterrey.winforms\\forms\\frmlecturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|solutionrelative:ssel.monterrey.winforms\\forms\\frmlecturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\ssel.monterrey.winforms\\forms\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj|solutionrelative:ssel.monterrey.winforms\\forms\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.infrastructure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj|solutionrelative:ssel.monterrey.infrastructure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -317,14 +232,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj|solutionrelative:ssel.monterrey.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj|solutionrelative:ssel.monterrey.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.infrastructure\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj|solutionrelative:ssel.monterrey.infrastructure\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.infrastructure\\configurations\\empresaconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -359,10 +266,6 @@
       "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj|solutionrelative:ssel.monterrey.infrastructure\\configurations\\usuarioconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.infrastructure\\data\\sselcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj|solutionrelative:ssel.monterrey.infrastructure\\data\\sselcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.domain\\valueobjects\\direccionvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj|solutionrelative:ssel.monterrey.domain\\valueobjects\\direccionvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -379,8 +282,120 @@
       "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj|solutionrelative:ssel.monterrey.domain\\entities\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj|solutionrelative:ssel.monterrey.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\Interfaces\\IGenericRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SSEL.MONTERREY.Domain\\Interfaces\\IGenericRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\Views\\Dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SSEL.MONTERREY.WPF\\Views\\Dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\views\\dashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\views\\dashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\views\\estadisticas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\views\\estadisticas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\views\\configuracionview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\views\\configuracionview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\assets\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\assets\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\views\\acercadeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\views\\acercadeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\viewmodels\\mainwindowvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\viewmodels\\mainwindowvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\assets\\themes\\darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\assets\\themes\\darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\helpers\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\helpers\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\assets\\themes\\lighttheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\assets\\themes\\lighttheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\helpers\\licensechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\helpers\\licensechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\helpers\\fosecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\helpers\\fosecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\helpers\\thememanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\helpers\\thememanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\viewmodels\\usuariosvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\viewmodels\\usuariosvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\viewmodels\\reclamosvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\viewmodels\\reclamosvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\viewmodels\\recibosvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\viewmodels\\recibosvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\viewmodels\\estadisticasvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\viewmodels\\estadisticasvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\viewmodels\\lecturasvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\viewmodels\\lecturasvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\viewmodels\\dashboardvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\viewmodels\\dashboardvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\viewmodels\\configuracionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\viewmodels\\configuracionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\viewmodels\\acercadevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\viewmodels\\acercadevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|c:\\users\\vichitoruiz\\downloads\\monterrey_fixed\\monterrey\\monterrey\\ssel.monterrey.wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj|solutionrelative:ssel.monterrey.wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -395,19 +410,83 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Microsoft.NET.Sdk.WindowsDesktop.targets",
-              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.NET.Sdk.WindowsDesktop.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.NET.Sdk.WindowsDesktop.targets",
-              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.NET.Sdk.WindowsDesktop.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.NET.Sdk.WindowsDesktop.targets",
-              "ViewState": "AgIAAGAAAAAAAAAAAIAwwG4AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-11-10T08:12:23.931Z",
+              "Title": "SSEL.MONTERREY.WPF.csproj",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj",
+              "RelativeToolTip": "SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-11T19:58:10.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SSEL.MONTERREY.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj",
+              "RelativeToolTip": "SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-08T22:23:27.305Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Directory.Packages.props",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\Directory.Packages.props",
+              "RelativeDocumentMoniker": "Directory.Packages.props",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\Directory.Packages.props",
+              "RelativeToolTip": "Directory.Packages.props",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-11-11T18:48:29.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SSEL.MONTERREY.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj",
+              "RelativeToolTip": "SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-11T19:58:16.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SSEL.MONTERREY.Licensing.csproj",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\SSEL.MONTERREY.Licensing.csproj",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.Licensing\\SSEL.MONTERREY.Licensing.csproj",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\SSEL.MONTERREY.Licensing.csproj",
+              "RelativeToolTip": "SSEL.MONTERREY.Licensing\\SSEL.MONTERREY.Licensing.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-08T23:29:20.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Microsoft.CSharp.Core.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.CSharp.Core.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.CSharp.Core.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.CSharp.Core.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.CSharp.Core.targets",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAkwFMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-11-09T22:15:38.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "SSEL.MONTERREY.Application.csproj",
               "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj",
               "RelativeDocumentMoniker": "SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj",
@@ -419,131 +498,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Styles.xaml",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\Assets\\Styles.xaml",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.WPF\\Assets\\Styles.xaml",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\Assets\\Styles.xaml",
-              "RelativeToolTip": "SSEL.MONTERREY.WPF\\Assets\\Styles.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-08T22:56:51.864Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Suministro.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\Entities\\Suministro.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.Domain\\Entities\\Suministro.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\Entities\\Suministro.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.Domain\\Entities\\Suministro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T21:59:08.268Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "FOSE.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\Entities\\FOSE.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.Domain\\Entities\\FOSE.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\Entities\\FOSE.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.Domain\\Entities\\FOSE.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T21:59:55.676Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SSEL.MONTERREY.WinForms.csproj",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj",
-              "RelativeToolTip": "SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-08T22:34:04.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmAcercaDe.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\FrmAcercaDe.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.WinForms\\FrmAcercaDe.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\FrmAcercaDe.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.WinForms\\FrmAcercaDe.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T22:41:30.099Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Lectura.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\Entities\\Lectura.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.Domain\\Entities\\Lectura.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\Entities\\Lectura.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.Domain\\Entities\\Lectura.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T21:59:24.87Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AgIAAFMNAAAAAAAAAIAwwGENAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-11-09T22:31:58.991Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Recibo.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\Entities\\Recibo.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.Domain\\Entities\\Recibo.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\Entities\\Recibo.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.Domain\\Entities\\Recibo.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAgwAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T21:59:44.941Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.WPF\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\MainWindow.xaml",
-              "RelativeToolTip": "SSEL.MONTERREY.WPF\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-08T23:00:21.178Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\App.xaml.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.WPF\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\App.xaml.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.WPF\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T23:45:46.325Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 76,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\App.xaml",
               "RelativeDocumentMoniker": "SSEL.MONTERREY.WPF\\App.xaml",
@@ -554,312 +510,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Reclamo.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\Entities\\Reclamo.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.Domain\\Entities\\Reclamo.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\Entities\\Reclamo.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.Domain\\Entities\\Reclamo.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAA9wAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T06:08:02.023Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Encryptor.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\Encryptor.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.Licensing\\Encryptor.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\Encryptor.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.Licensing\\Encryptor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T23:27:07.811Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IAuditable.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\Interfaces\\IAuditable.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.Domain\\Interfaces\\IAuditable.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\Interfaces\\IAuditable.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.Domain\\Interfaces\\IAuditable.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAgwAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T22:00:38.292Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "LicenseManager.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\LicenseManager.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.Licensing\\LicenseManager.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\LicenseManager.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.Licensing\\LicenseManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T23:23:15.559Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "LicenseValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\LicenseValidator.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.Licensing\\LicenseValidator.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\LicenseValidator.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.Licensing\\LicenseValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T23:23:55.524Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "LicenseModel.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\LicenseModel.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.Licensing\\LicenseModel.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\LicenseModel.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.Licensing\\LicenseModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T23:23:35.066Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "HWIDGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\HWIDGenerator.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.Licensing\\HWIDGenerator.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\HWIDGenerator.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.Licensing\\HWIDGenerator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T23:25:34.534Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "LicenseForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\LicenseForm.Designer.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.Licensing\\LicenseForm.Designer.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\LicenseForm.Designer.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.Licensing\\LicenseForm.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T05:48:57.773Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "LicenseForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\LicenseForm.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.Licensing\\LicenseForm.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\source\\repos\\Monterrey\\SSEL.MONTERREY.Licensing\\LicenseForm.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Monterrey\\SSEL.MONTERREY.Licensing\\LicenseForm.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T23:24:27.723Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "SSEL.MONTERREY.Licensing.csproj",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\SSEL.MONTERREY.Licensing.csproj",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.Licensing\\SSEL.MONTERREY.Licensing.csproj",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\SSEL.MONTERREY.Licensing.csproj",
-              "RelativeToolTip": "SSEL.MONTERREY.Licensing\\SSEL.MONTERREY.Licensing.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-08T23:29:20.358Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "LicenseForm.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\LicenseForm.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.Licensing\\LicenseForm.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\LicenseForm.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.Licensing\\LicenseForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T23:27:57.779Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "FrmConfiguracion.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\FrmConfiguracion.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.WinForms\\FrmConfiguracion.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\FrmConfiguracion.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.WinForms\\FrmConfiguracion.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAD4vw8AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T22:50:25.686Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "EstadisticasVM.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\ViewModels\\EstadisticasVM.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.WPF\\ViewModels\\EstadisticasVM.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\ViewModels\\EstadisticasVM.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.WPF\\ViewModels\\EstadisticasVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T22:55:42.955Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "FrmLogin.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\FrmLogin.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.WinForms\\FrmLogin.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\FrmLogin.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.WinForms\\FrmLogin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T22:46:22.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "FrmDashboard.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\FrmDashboard.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.WinForms\\FrmDashboard.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\FrmDashboard.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.WinForms\\FrmDashboard.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T22:47:15.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ReciboServiceTests.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Tests\\UnitTests\\ReciboServiceTests.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.Tests\\UnitTests\\ReciboServiceTests.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Tests\\UnitTests\\ReciboServiceTests.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.Tests\\UnitTests\\ReciboServiceTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T23:55:32.957Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "SSEL.MONTERREY.WPF.csproj",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj",
-              "RelativeToolTip": "SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-08T22:51:56.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "SSEL.MONTERREY.WPF",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj",
-              "RelativeToolTip": "SSEL.MONTERREY.WPF\\SSEL.MONTERREY.WPF.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-08T23:16:28.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "FrmConfiguracion.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\FrmConfiguracion.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.WinForms\\FrmConfiguracion.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\FrmConfiguracion.cs [Dise\u00F1o]",
-              "RelativeToolTip": "SSEL.MONTERREY.WinForms\\FrmConfiguracion.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T20:48:06.773Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Microsoft.CSharp.Core.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.CSharp.Core.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.CSharp.Core.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.CSharp.Core.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.CSharp.Core.targets",
-              "ViewState": "AgIAAIwAAAAAAAAAAAAmwFkAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-11-09T22:15:38.16Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Microsoft.PackageDependencyResolution.targets",
-              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
-              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
-              "ViewState": "AgIAANkAAAAAAAAAAAAmwAkBAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-11-09T23:20:37.156Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Dashboard.xaml",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\Views\\Dashboard.xaml",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.WPF\\Views\\Dashboard.xaml",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\Views\\Dashboard.xaml",
-              "RelativeToolTip": "SSEL.MONTERREY.WPF\\Views\\Dashboard.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-08T23:01:14.11Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 5,
               "Title": "SSEL.MONTERREY.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj",
               "RelativeDocumentMoniker": "SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj",
               "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj",
               "RelativeToolTip": "SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-11-08T22:01:35.098Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "InfrastructureServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\InfrastructureServiceRegistration.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.Infrastructure\\InfrastructureServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\InfrastructureServiceRegistration.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.Infrastructure\\InfrastructureServiceRegistration.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwB0AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T22:22:52.773Z"
+              "DocumentIndex": 75,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.WPF\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "SSEL.MONTERREY.WPF\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-11T15:18:20.234Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "SSEL.MONTERREY.Domain.csproj",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj",
-              "RelativeToolTip": "SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-08T22:23:27.305Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 74,
               "Title": "Estadisticas.xaml",
               "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\Views\\Estadisticas.xaml",
               "RelativeDocumentMoniker": "SSEL.MONTERREY.WPF\\Views\\Estadisticas.xaml",
@@ -870,162 +545,502 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "SSEL.MONTERREY.Tests.csproj",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj",
-              "RelativeToolTip": "SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 73,
+              "Title": "DashboardView.xaml",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\Views\\DashboardView.xaml",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.WPF\\Views\\DashboardView.xaml",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\Views\\DashboardView.xaml",
+              "RelativeToolTip": "SSEL.MONTERREY.WPF\\Views\\DashboardView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-11T16:37:32.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SSEL.MONTERREY.Application",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj",
+              "RelativeToolTip": "SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-08T22:51:54.306Z",
+              "WhenOpened": "2025-11-11T17:00:26.013Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "ReciboCalculator.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\Services\\ReciboCalculator.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.Infrastructure\\Services\\ReciboCalculator.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\Services\\ReciboCalculator.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.Infrastructure\\Services\\ReciboCalculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Application\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.Application\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Application\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.Application\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADgvxMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T22:18:32.772Z"
+              "WhenOpened": "2025-11-10T08:22:53.907Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "ApiPeruClient.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\Services\\ApiPeruClient.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.Infrastructure\\Services\\ApiPeruClient.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\Services\\ApiPeruClient.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.Infrastructure\\Services\\ApiPeruClient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "LecturaService.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Application\\Services\\LecturaService.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.Application\\Services\\LecturaService.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Application\\Services\\LecturaService.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.Application\\Services\\LecturaService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAjwBEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T22:19:03.205Z"
+              "WhenOpened": "2025-11-10T11:14:54.646Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\Program.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.WinForms\\Program.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\Program.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.WinForms\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "InfrastructureServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\InfrastructureServiceRegistration.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.Infrastructure\\InfrastructureServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\InfrastructureServiceRegistration.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.Infrastructure\\InfrastructureServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAACBjwBgAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T22:43:17.75Z"
+              "WhenOpened": "2025-11-08T22:22:52.773Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 12,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T22:16:42.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SSEL.MONTERREY.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj",
+              "RelativeToolTip": "SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-11T16:40:41.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ConfiguracionView.xaml",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\Views\\ConfiguracionView.xaml",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.WPF\\Views\\ConfiguracionView.xaml",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\Views\\ConfiguracionView.xaml",
+              "RelativeToolTip": "SSEL.MONTERREY.WPF\\Views\\ConfiguracionView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-11T13:00:10.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SSELContext.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\Data\\SSELContext.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.Infrastructure\\Data\\SSELContext.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\Data\\SSELContext.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.Infrastructure\\Data\\SSELContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T22:05:31.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\Assets\\Styles.xaml",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.WPF\\Assets\\Styles.xaml",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\Assets\\Styles.xaml",
+              "RelativeToolTip": "SSEL.MONTERREY.WPF\\Assets\\Styles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-08T22:56:51.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\Views\\LoginView.xaml",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.WPF\\Views\\LoginView.xaml",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\Views\\LoginView.xaml",
+              "RelativeToolTip": "SSEL.MONTERREY.WPF\\Views\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-11T15:19:55.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "AcercaDeView.xaml",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\Views\\AcercaDeView.xaml",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.WPF\\Views\\AcercaDeView.xaml",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\Views\\AcercaDeView.xaml",
+              "RelativeToolTip": "SSEL.MONTERREY.WPF\\Views\\AcercaDeView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-11T15:36:19.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "MainWindowVM.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\ViewModels\\MainWindowVM.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.WPF\\ViewModels\\MainWindowVM.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\ViewModels\\MainWindowVM.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.WPF\\ViewModels\\MainWindowVM.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAxwBwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T14:03:03.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\Helpers\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.WPF\\Helpers\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\Helpers\\RelayCommand.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.WPF\\Helpers\\RelayCommand.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T15:00:14.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "DarkTheme.xaml",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\Assets\\Themes\\DarkTheme.xaml",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.WPF\\Assets\\Themes\\DarkTheme.xaml",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\Assets\\Themes\\DarkTheme.xaml",
+              "RelativeToolTip": "SSEL.MONTERREY.WPF\\Assets\\Themes\\DarkTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-11T15:10:19.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\Helpers\\Validator.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.WPF\\Helpers\\Validator.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\Helpers\\Validator.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.WPF\\Helpers\\Validator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T15:00:36.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "LightTheme.xaml",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\Assets\\Themes\\LightTheme.xaml",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.WPF\\Assets\\Themes\\LightTheme.xaml",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\Assets\\Themes\\LightTheme.xaml",
+              "RelativeToolTip": "SSEL.MONTERREY.WPF\\Assets\\Themes\\LightTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-11T15:09:59.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "LicenseChecker.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\Helpers\\LicenseChecker.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.WPF\\Helpers\\LicenseChecker.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\Helpers\\LicenseChecker.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.WPF\\Helpers\\LicenseChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T15:00:07.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
               "Title": "FoseCalculator.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\Services\\FoseCalculator.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.Infrastructure\\Services\\FoseCalculator.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\Services\\FoseCalculator.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.Infrastructure\\Services\\FoseCalculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\Helpers\\FoseCalculator.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.WPF\\Helpers\\FoseCalculator.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\Helpers\\FoseCalculator.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.WPF\\Helpers\\FoseCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T22:01:43.173Z"
+              "WhenOpened": "2025-11-11T14:59:55.661Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "FrmReclamos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\FrmReclamos.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.WinForms\\FrmReclamos.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\source\\repos\\Monterrey\\SSEL.MONTERREY.WinForms\\FrmReclamos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Monterrey\\SSEL.MONTERREY.WinForms\\FrmReclamos.cs [Dise\u00F1o]",
+              "DocumentIndex": 88,
+              "Title": "ThemeManager.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\Helpers\\ThemeManager.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.WPF\\Helpers\\ThemeManager.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\Helpers\\ThemeManager.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.WPF\\Helpers\\ThemeManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T20:51:51.434Z"
+              "WhenOpened": "2025-11-11T13:46:37.669Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "FrmLogin.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\FrmLogin.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.WinForms\\FrmLogin.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\FrmLogin.cs [Dise\u00F1o]",
-              "RelativeToolTip": "SSEL.MONTERREY.WinForms\\FrmLogin.cs [Dise\u00F1o]",
+              "DocumentIndex": 89,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\ViewModels\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.WPF\\ViewModels\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\ViewModels\\ViewModelBase.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.WPF\\ViewModels\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T20:51:48.011Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-11-11T14:24:26.667Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "FrmLecturas.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\FrmLecturas.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.WinForms\\FrmLecturas.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\source\\repos\\Monterrey\\SSEL.MONTERREY.WinForms\\FrmLecturas.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Monterrey\\SSEL.MONTERREY.WinForms\\FrmLecturas.cs [Dise\u00F1o]",
+              "DocumentIndex": 90,
+              "Title": "UsuariosVM.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\ViewModels\\UsuariosVM.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.WPF\\ViewModels\\UsuariosVM.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\ViewModels\\UsuariosVM.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.WPF\\ViewModels\\UsuariosVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T20:48:24.268Z"
+              "WhenOpened": "2025-11-11T14:19:30.886Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "FoseCalculatorTests.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Tests\\UnitTests\\FoseCalculatorTests.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.Tests\\UnitTests\\FoseCalculatorTests.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Tests\\UnitTests\\FoseCalculatorTests.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.Tests\\UnitTests\\FoseCalculatorTests.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAASwBsAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 91,
+              "Title": "ReclamosVM.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\ViewModels\\ReclamosVM.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.WPF\\ViewModels\\ReclamosVM.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\ViewModels\\ReclamosVM.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.WPF\\ViewModels\\ReclamosVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T23:55:49.325Z"
+              "WhenOpened": "2025-11-11T14:15:14.524Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "FrmDashboard.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\FrmDashboard.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.WinForms\\FrmDashboard.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\FrmDashboard.cs [Dise\u00F1o]",
-              "RelativeToolTip": "SSEL.MONTERREY.WinForms\\FrmDashboard.cs [Dise\u00F1o]",
+              "DocumentIndex": 92,
+              "Title": "RecibosVM.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\ViewModels\\RecibosVM.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.WPF\\ViewModels\\RecibosVM.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\ViewModels\\RecibosVM.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.WPF\\ViewModels\\RecibosVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T22:47:09.984Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-11-11T14:17:23.918Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "FrmRecibos.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\FrmRecibos.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.WinForms\\FrmRecibos.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\FrmRecibos.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.WinForms\\FrmRecibos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "DocumentIndex": 93,
+              "Title": "EstadisticasVM.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\ViewModels\\EstadisticasVM.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.WPF\\ViewModels\\EstadisticasVM.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\ViewModels\\EstadisticasVM.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.WPF\\ViewModels\\EstadisticasVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T22:49:19.516Z"
+              "WhenOpened": "2025-11-08T22:55:42.955Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "FrmLecturas.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\FrmLecturas.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.WinForms\\FrmLecturas.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\FrmLecturas.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.WinForms\\FrmLecturas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "DocumentIndex": 94,
+              "Title": "LecturasVM.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\ViewModels\\LecturasVM.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.WPF\\ViewModels\\LecturasVM.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\ViewModels\\LecturasVM.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.WPF\\ViewModels\\LecturasVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T22:48:50.709Z"
+              "WhenOpened": "2025-11-11T14:25:11.764Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 95,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.WPF\\ViewModels\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.WPF\\ViewModels\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T14:13:18.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "DashboardVM.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\ViewModels\\DashboardVM.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.WPF\\ViewModels\\DashboardVM.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\ViewModels\\DashboardVM.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.WPF\\ViewModels\\DashboardVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T14:25:21.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "ConfiguracionVM.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\ViewModels\\ConfiguracionVM.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.WPF\\ViewModels\\ConfiguracionVM.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\ViewModels\\ConfiguracionVM.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.WPF\\ViewModels\\ConfiguracionVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T22:55:26.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "AcercaDeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\ViewModels\\AcercaDeVM.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.WPF\\ViewModels\\AcercaDeVM.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\ViewModels\\AcercaDeVM.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.WPF\\ViewModels\\AcercaDeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T14:21:47.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Recibo.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\Entities\\Recibo.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.Domain\\Entities\\Recibo.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\Entities\\Recibo.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.Domain\\Entities\\Recibo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T21:59:44.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Microsoft.NET.Sdk.DefaultItems.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "ViewState": "AgIAAIAAAAAAAAAAAGB3wJQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-11-11T14:30:16.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IReciboService.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Application\\Interfaces\\IReciboService.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.Application\\Interfaces\\IReciboService.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Application\\Interfaces\\IReciboService.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.Application\\Interfaces\\IReciboService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T13:18:13.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReciboCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Application\\Helpers\\ReciboCalculator.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.Application\\Helpers\\ReciboCalculator.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Application\\Helpers\\ReciboCalculator.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.Application\\Helpers\\ReciboCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:31:13.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReciboService.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Application\\Services\\ReciboService.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.Application\\Services\\ReciboService.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Application\\Services\\ReciboService.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.Application\\Services\\ReciboService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T11:15:04.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.Domain\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.Domain\\Interfaces\\IGenericRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:01:52.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Application\\Mappers\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.Application\\Mappers\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Application\\Mappers\\AutoMapperProfile.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.Application\\Mappers\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:12:51.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "UsuarioServiceTests.cs",
               "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Tests\\UnitTests\\UsuarioServiceTests.cs",
               "RelativeDocumentMoniker": "SSEL.MONTERREY.Tests\\UnitTests\\UsuarioServiceTests.cs",
               "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Tests\\UnitTests\\UsuarioServiceTests.cs",
               "RelativeToolTip": "SSEL.MONTERREY.Tests\\UnitTests\\UsuarioServiceTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAlwBcAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-08T23:54:56.86Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 20,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAEobAAAAAAAAAAAjwFgbAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-11-09T22:31:58.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Dashboard.xaml",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\Views\\Dashboard.xaml",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.WPF\\Views\\Dashboard.xaml",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\Views\\Dashboard.xaml",
+              "RelativeToolTip": "SSEL.MONTERREY.WPF\\Views\\Dashboard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-08T23:01:14.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ILecturaService.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Application\\Interfaces\\ILecturaService.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.Application\\Interfaces\\ILecturaService.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Application\\Interfaces\\ILecturaService.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.Application\\Interfaces\\ILecturaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T21:36:48.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LecturaDto.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Application\\DTOs\\LecturaDto.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.Application\\DTOs\\LecturaDto.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Application\\DTOs\\LecturaDto.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.Application\\DTOs\\LecturaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T21:37:06.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "TestDbContextFactory.cs",
               "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Tests\\TestHelpers\\TestDbContextFactory.cs",
               "RelativeDocumentMoniker": "SSEL.MONTERREY.Tests\\TestHelpers\\TestDbContextFactory.cs",
@@ -1037,7 +1052,284 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 27,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Application\\DTOs\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.Application\\DTOs\\UsuarioDto.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Application\\DTOs\\UsuarioDto.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.Application\\DTOs\\UsuarioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T08:48:08.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Application\\Interfaces\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.Application\\Interfaces\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Application\\Interfaces\\IUsuarioService.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.Application\\Interfaces\\IUsuarioService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAlwA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T08:38:40.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ApiPeruClientTests.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Tests\\IntegrationTests\\ApiPeruClientTests.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.Tests\\IntegrationTests\\ApiPeruClientTests.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Tests\\IntegrationTests\\ApiPeruClientTests.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.Tests\\IntegrationTests\\ApiPeruClientTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T23:56:33.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.Domain\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.Domain\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T21:58:11.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FoseCalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Tests\\UnitTests\\FoseCalculatorTests.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.Tests\\UnitTests\\FoseCalculatorTests.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Tests\\UnitTests\\FoseCalculatorTests.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.Tests\\UnitTests\\FoseCalculatorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T23:55:49.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Suministro.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\Entities\\Suministro.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.Domain\\Entities\\Suministro.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\Entities\\Suministro.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.Domain\\Entities\\Suministro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T21:59:08.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Microsoft.NET.Sdk.WindowsDesktop.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.NET.Sdk.WindowsDesktop.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.NET.Sdk.WindowsDesktop.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.NET.Sdk.WindowsDesktop.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.NET.Sdk.WindowsDesktop.targets",
+              "ViewState": "AgIAAJYAAAAAAAAAAIAwwG4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-11-10T08:12:23.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FOSE.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\Entities\\FOSE.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.Domain\\Entities\\FOSE.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\Entities\\FOSE.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.Domain\\Entities\\FOSE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T21:59:55.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Lectura.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\Entities\\Lectura.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.Domain\\Entities\\Lectura.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\Entities\\Lectura.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.Domain\\Entities\\Lectura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T21:59:24.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.WPF\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\App.xaml.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.WPF\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T23:45:46.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Reclamo.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\Entities\\Reclamo.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.Domain\\Entities\\Reclamo.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\Entities\\Reclamo.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.Domain\\Entities\\Reclamo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T06:08:02.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Encryptor.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\Encryptor.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.Licensing\\Encryptor.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\Encryptor.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.Licensing\\Encryptor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T23:27:07.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IAuditable.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\Interfaces\\IAuditable.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.Domain\\Interfaces\\IAuditable.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\Interfaces\\IAuditable.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.Domain\\Interfaces\\IAuditable.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T22:00:38.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LicenseManager.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\LicenseManager.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.Licensing\\LicenseManager.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\LicenseManager.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.Licensing\\LicenseManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T23:23:15.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LicenseValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\LicenseValidator.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.Licensing\\LicenseValidator.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\LicenseValidator.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.Licensing\\LicenseValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T23:23:55.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LicenseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\LicenseModel.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.Licensing\\LicenseModel.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\LicenseModel.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.Licensing\\LicenseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T23:23:35.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "HWIDGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\HWIDGenerator.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.Licensing\\HWIDGenerator.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\HWIDGenerator.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.Licensing\\HWIDGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T23:25:34.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "LicenseForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\LicenseForm.Designer.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.Licensing\\LicenseForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\LicenseForm.Designer.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.Licensing\\LicenseForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T05:48:57.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "LicenseForm.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\LicenseForm.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.Licensing\\LicenseForm.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\LicenseForm.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.Licensing\\LicenseForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T23:27:57.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ReciboServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Tests\\UnitTests\\ReciboServiceTests.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.Tests\\UnitTests\\ReciboServiceTests.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Tests\\UnitTests\\ReciboServiceTests.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.Tests\\UnitTests\\ReciboServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T23:55:32.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAANkAAAAAAAAAAAAmwAkBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-11-09T23:20:37.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ApiPeruClient.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\Services\\ApiPeruClient.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.Infrastructure\\Services\\ApiPeruClient.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\Services\\ApiPeruClient.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.Infrastructure\\Services\\ApiPeruClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T22:19:03.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FoseCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\Services\\FoseCalculator.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.Infrastructure\\Services\\FoseCalculator.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\Services\\FoseCalculator.cs",
+              "RelativeToolTip": "SSEL.MONTERREY.Infrastructure\\Services\\FoseCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T22:01:43.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Tests\\appsettings.json",
               "RelativeDocumentMoniker": "SSEL.MONTERREY.Tests\\appsettings.json",
@@ -1050,18 +1342,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 52,
-              "Title": "ApiPeruClientTests.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Tests\\IntegrationTests\\ApiPeruClientTests.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.Tests\\IntegrationTests\\ApiPeruClientTests.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Tests\\IntegrationTests\\ApiPeruClientTests.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.Tests\\IntegrationTests\\ApiPeruClientTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T23:56:33.085Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
               "Title": "FakeDataGenerator.cs",
               "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Tests\\TestHelpers\\FakeDataGenerator.cs",
               "RelativeDocumentMoniker": "SSEL.MONTERREY.Tests\\TestHelpers\\FakeDataGenerator.cs",
@@ -1073,7 +1353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 51,
               "Title": "SSEL.MONTERREY.Tests",
               "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj",
               "RelativeDocumentMoniker": "SSEL.MONTERREY.Tests\\SSEL.MONTERREY.Tests.csproj",
@@ -1085,7 +1365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 50,
               "Title": "SSEL.MONTERREY.Licensing",
               "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\SSEL.MONTERREY.Licensing.csproj",
               "RelativeDocumentMoniker": "SSEL.MONTERREY.Licensing\\SSEL.MONTERREY.Licensing.csproj",
@@ -1097,7 +1377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 53,
               "Title": "DatabaseRelationTests.cs",
               "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Tests\\IntegrationTests\\DatabaseRelationTests.cs",
               "RelativeDocumentMoniker": "SSEL.MONTERREY.Tests\\IntegrationTests\\DatabaseRelationTests.cs",
@@ -1109,7 +1389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 54,
               "Title": "LecturaServiceTests.cs",
               "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Tests\\UnitTests\\LecturaServiceTests.cs",
               "RelativeDocumentMoniker": "SSEL.MONTERREY.Tests\\UnitTests\\LecturaServiceTests.cs",
@@ -1121,193 +1401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "FrmReclamos.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\FrmReclamos.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.WinForms\\FrmReclamos.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\FrmReclamos.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.WinForms\\FrmReclamos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T22:49:51.22Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "SSEL.MONTERREY.WinForms",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj",
-              "RelativeToolTip": "SSEL.MONTERREY.WinForms\\SSEL.MONTERREY.WinForms.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-08T23:47:34.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "ConfiguracionVM.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\ViewModels\\ConfiguracionVM.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.WPF\\ViewModels\\ConfiguracionVM.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\ViewModels\\ConfiguracionVM.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.WPF\\ViewModels\\ConfiguracionVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T22:55:26.869Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "Configuracion.xaml",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\Views\\Configuracion.xaml",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.WPF\\Views\\Configuracion.xaml",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\Views\\Configuracion.xaml",
-              "RelativeToolTip": "SSEL.MONTERREY.WPF\\Views\\Configuracion.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-08T22:54:13.925Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 64,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.WPF\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\MainWindow.xaml.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.WPF\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T23:00:29.057Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "FrmUsuarios.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\FrmUsuarios.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.WinForms\\FrmUsuarios.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\FrmUsuarios.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.WinForms\\FrmUsuarios.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T22:48:22.636Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 66,
-              "Title": "ThemeManager.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\Utils\\ThemeManager.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.WinForms\\Utils\\ThemeManager.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\Utils\\ThemeManager.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.WinForms\\Utils\\ThemeManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T22:44:43.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 67,
-              "Title": "ThemeManager.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\Utils\\ThemeManager.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.WinForms\\Utils\\ThemeManager.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\Utils\\ThemeManager.cs [Dise\u00F1o]",
-              "RelativeToolTip": "SSEL.MONTERREY.WinForms\\Utils\\ThemeManager.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T22:44:40.225Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 68,
-              "Title": "Validator.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\Utils\\Validator.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.WinForms\\Utils\\Validator.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\Utils\\Validator.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.WinForms\\Utils\\Validator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T22:44:12.229Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 69,
-              "Title": "LicenseChecker.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\Utils\\LicenseChecker.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.WinForms\\Utils\\LicenseChecker.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\Utils\\LicenseChecker.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.WinForms\\Utils\\LicenseChecker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T22:43:37.245Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 70,
-              "Title": "FrmAcercaDe.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\Forms\\FrmAcercaDe.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.WinForms\\Forms\\FrmAcercaDe.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\source\\repos\\Monterrey\\SSEL.MONTERREY.WinForms\\Forms\\FrmAcercaDe.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Monterrey\\SSEL.MONTERREY.WinForms\\Forms\\FrmAcercaDe.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T22:40:29.38Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 71,
-              "Title": "FrmConfiguracion.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\Forms\\FrmConfiguracion.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.WinForms\\Forms\\FrmConfiguracion.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\source\\repos\\Monterrey\\SSEL.MONTERREY.WinForms\\Forms\\FrmConfiguracion.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Monterrey\\SSEL.MONTERREY.WinForms\\Forms\\FrmConfiguracion.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T22:40:16.773Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 72,
-              "Title": "FrmReclamos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\Forms\\FrmReclamos.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.WinForms\\Forms\\FrmReclamos.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\source\\repos\\Monterrey\\SSEL.MONTERREY.WinForms\\Forms\\FrmReclamos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Monterrey\\SSEL.MONTERREY.WinForms\\Forms\\FrmReclamos.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T22:40:05.36Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 73,
-              "Title": "FrmRecibos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\Forms\\FrmRecibos.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.WinForms\\Forms\\FrmRecibos.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\source\\repos\\Monterrey\\SSEL.MONTERREY.WinForms\\Forms\\FrmRecibos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Monterrey\\SSEL.MONTERREY.WinForms\\Forms\\FrmRecibos.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T22:39:49.075Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 74,
-              "Title": "FrmLecturas.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\Forms\\FrmLecturas.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.WinForms\\Forms\\FrmLecturas.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\source\\repos\\Monterrey\\SSEL.MONTERREY.WinForms\\Forms\\FrmLecturas.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Monterrey\\SSEL.MONTERREY.WinForms\\Forms\\FrmLecturas.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T22:39:28.146Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 75,
-              "Title": "FrmUsuarios.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WinForms\\Forms\\FrmUsuarios.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.WinForms\\Forms\\FrmUsuarios.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\source\\repos\\Monterrey\\SSEL.MONTERREY.WinForms\\Forms\\FrmUsuarios.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Monterrey\\SSEL.MONTERREY.WinForms\\Forms\\FrmUsuarios.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T22:38:54.071Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 55,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\appsettings.json",
               "RelativeDocumentMoniker": "SSEL.MONTERREY.Infrastructure\\appsettings.json",
@@ -1319,7 +1413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 56,
               "Title": "FileLogger.cs",
               "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\Logging\\FileLogger.cs",
               "RelativeDocumentMoniker": "SSEL.MONTERREY.Infrastructure\\Logging\\FileLogger.cs",
@@ -1331,7 +1425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 57,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\Repositories\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "SSEL.MONTERREY.Infrastructure\\Repositories\\IUnitOfWork.cs",
@@ -1343,7 +1437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 58,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\Repositories\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "SSEL.MONTERREY.Infrastructure\\Repositories\\UnitOfWork.cs",
@@ -1355,31 +1449,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\Repositories\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.Infrastructure\\Repositories\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\Repositories\\GenericRepository.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.Infrastructure\\Repositories\\GenericRepository.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T22:16:42.177Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 81,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\Repositories\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.Infrastructure\\Repositories\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\Repositories\\IGenericRepository.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.Infrastructure\\Repositories\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T22:15:37.234Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 59,
               "Title": "EmpresaConfig.cs",
               "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\Configurations\\EmpresaConfig.cs",
               "RelativeDocumentMoniker": "SSEL.MONTERREY.Infrastructure\\Configurations\\EmpresaConfig.cs",
@@ -1391,7 +1461,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 60,
               "Title": "FOSEConfig.cs",
               "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\Configurations\\FOSEConfig.cs",
               "RelativeDocumentMoniker": "SSEL.MONTERREY.Infrastructure\\Configurations\\FOSEConfig.cs",
@@ -1403,7 +1473,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 61,
               "Title": "ReclamoConfig.cs",
               "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\Configurations\\ReclamoConfig.cs",
               "RelativeDocumentMoniker": "SSEL.MONTERREY.Infrastructure\\Configurations\\ReclamoConfig.cs",
@@ -1415,7 +1485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 62,
               "Title": "ReciboConfig.cs",
               "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\Configurations\\ReciboConfig.cs",
               "RelativeDocumentMoniker": "SSEL.MONTERREY.Infrastructure\\Configurations\\ReciboConfig.cs",
@@ -1427,7 +1497,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 63,
               "Title": "LecturaConfig.cs",
               "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\Configurations\\LecturaConfig.cs",
               "RelativeDocumentMoniker": "SSEL.MONTERREY.Infrastructure\\Configurations\\LecturaConfig.cs",
@@ -1439,7 +1509,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 64,
               "Title": "SuministroConfig.cs",
               "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\Configurations\\SuministroConfig.cs",
               "RelativeDocumentMoniker": "SSEL.MONTERREY.Infrastructure\\Configurations\\SuministroConfig.cs",
@@ -1451,7 +1521,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 65,
               "Title": "ServicioConfig.cs",
               "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\Configurations\\ServicioConfig.cs",
               "RelativeDocumentMoniker": "SSEL.MONTERREY.Infrastructure\\Configurations\\ServicioConfig.cs",
@@ -1463,7 +1533,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 66,
               "Title": "UsuarioConfig.cs",
               "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\Configurations\\UsuarioConfig.cs",
               "RelativeDocumentMoniker": "SSEL.MONTERREY.Infrastructure\\Configurations\\UsuarioConfig.cs",
@@ -1475,19 +1545,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
-              "Title": "SSELContext.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\Data\\SSELContext.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.Infrastructure\\Data\\SSELContext.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\Data\\SSELContext.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.Infrastructure\\Data\\SSELContext.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAIA5wBIAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T22:05:31.011Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 67,
               "Title": "DireccionVO.cs",
               "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\ValueObjects\\DireccionVO.cs",
               "RelativeDocumentMoniker": "SSEL.MONTERREY.Domain\\ValueObjects\\DireccionVO.cs",
@@ -1499,7 +1557,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 68,
               "Title": "Estados.cs",
               "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\Enums\\Estados.cs",
               "RelativeDocumentMoniker": "SSEL.MONTERREY.Domain\\Enums\\Estados.cs",
@@ -1511,7 +1569,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 69,
               "Title": "Empresa.cs",
               "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\Entities\\Empresa.cs",
               "RelativeDocumentMoniker": "SSEL.MONTERREY.Domain\\Entities\\Empresa.cs",
@@ -1523,7 +1581,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 70,
               "Title": "Servicio.cs",
               "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\Entities\\Servicio.cs",
               "RelativeDocumentMoniker": "SSEL.MONTERREY.Domain\\Entities\\Servicio.cs",
@@ -1535,15 +1593,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\Entities\\Usuario.cs",
-              "RelativeDocumentMoniker": "SSEL.MONTERREY.Domain\\Entities\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\Entities\\Usuario.cs",
-              "RelativeToolTip": "SSEL.MONTERREY.Domain\\Entities\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 44,
+              "Title": "LicenseForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\LicenseForm.cs",
+              "RelativeDocumentMoniker": "SSEL.MONTERREY.Licensing\\LicenseForm.cs",
+              "ToolTip": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\LicenseForm.cs [Design]",
+              "RelativeToolTip": "SSEL.MONTERREY.Licensing\\LicenseForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T21:58:11.827Z"
+              "WhenOpened": "2025-11-08T23:24:27.723Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

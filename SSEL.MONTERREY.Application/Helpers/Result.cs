@@ -1,10 +1,17 @@
-namespace SSEL.MONTERREY.Application.Helpers;
-
-/// <summary>
-/// Resultado estandarizado para operaciones de aplicación.
-/// </summary>
-public record Result(bool Success, string? Message = null)
+namespace SSEL.MONTERREY.Application.Helpers
 {
-    public static Result Ok(string? msg = null) => new(true, msg);
-    public static Result Fail(string msg) => new(false, msg);
+    public class Result
+    {
+        public bool Success { get; }
+        public string Message { get; }
+
+        private Result(bool success, string message)
+        {
+            Success = success;
+            Message = message;
+        }
+
+        public static Result Ok(string message) => new(true, message);
+        public static Result Fail(string message) => new(false, message);
+    }
 }

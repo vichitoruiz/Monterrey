@@ -5,8 +5,11 @@ namespace SSEL.MONTERREY.Infrastructure.Data;
 
 public class SSELContext : DbContext
 {
-    public SSELContext(DbContextOptions<SSELContext> options) : base(options) { }
+    public SSELContext(DbContextOptions<SSELContext> options) : base(options)
+    {
+    }
 
+    // === DbSets ===
     public DbSet<Usuario> Usuarios => Set<Usuario>();
     public DbSet<Servicio> Servicios => Set<Servicio>();
     public DbSet<Suministro> Suministros => Set<Suministro>();
@@ -16,6 +19,7 @@ public class SSELContext : DbContext
     public DbSet<FOSE> FOSE => Set<FOSE>();
     public DbSet<Empresa> Empresa => Set<Empresa>();
 
+    // === Configuración del modelo ===
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.ApplyConfigurationsFromAssembly(typeof(SSELContext).Assembly);

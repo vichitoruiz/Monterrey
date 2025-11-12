@@ -1,15 +1,19 @@
+using AutoMapper;
 using SSEL.MONTERREY.Application.DTOs;
-using SSEL.MONTERREY.Application.Helpers;
-using System.Collections.Generic;
-using System.Threading.Tasks;
+using SSEL.MONTERREY.Domain.Entities;
 
-namespace SSEL.MONTERREY.Application.Interfaces;
-
-public interface IUsuarioService
+namespace SSEL.MONTERREY.Application.Mappers
 {
-    Task<IEnumerable<UsuarioDTO>> ListarAsync();
-    Task<UsuarioDTO?> BuscarPorDniAsync(string dni);
-    Task<Result> CrearAsync(UsuarioDTO dto);
-    Task<Result> ActualizarAsync(UsuarioDTO dto);
-    Task<Result> EliminarAsync(int id);
+    /// <summary>
+    /// Configuración central de AutoMapper.
+    /// Define los mapeos entre entidades de dominio y DTOs.
+    /// </summary>
+    public class AutoMapperProfile : Profile
+    {
+        public AutoMapperProfile()
+        {
+            // Mapeo bidireccional entre Usuario y UsuarioDTO
+            CreateMap<Usuario, UsuarioDto>().ReverseMap();
+        }
+    }
 }

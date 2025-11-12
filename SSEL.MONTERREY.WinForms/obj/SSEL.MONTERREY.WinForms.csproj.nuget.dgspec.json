@@ -35,9 +35,6 @@
             "projectReferences": {
               "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj": {
                 "projectPath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj"
-              },
-              "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\SSEL.MONTERREY.Licensing.csproj": {
-                "projectPath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\SSEL.MONTERREY.Licensing.csproj"
               }
             }
           }
@@ -83,9 +80,6 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WindowsForms": {
-              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
@@ -143,14 +137,6 @@
         "net9.0-windows7.0": {
           "targetAlias": "net9.0-windows7.0",
           "dependencies": {
-            "AutoMapper": {
-              "target": "Package",
-              "version": "[12.0.1, )"
-            },
-            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
-              "target": "Package",
-              "version": "[12.0.1, )"
-            },
             "CSharpMarkup.WinUI.LiveChartsCore.SkiaSharpView": {
               "target": "Package",
               "version": "[3.1.2, )"
@@ -234,14 +220,8 @@
           "net9.0-windows7.0": {
             "targetAlias": "net9.0-windows7.0",
             "projectReferences": {
-              "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj": {
-                "projectPath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj"
-              },
               "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj": {
                 "projectPath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj"
-              },
-              "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\SSEL.MONTERREY.Licensing.csproj": {
-                "projectPath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\SSEL.MONTERREY.Licensing.csproj"
               }
             }
           }
@@ -262,21 +242,13 @@
         "net9.0-windows7.0": {
           "targetAlias": "net9.0-windows7.0",
           "dependencies": {
-            "AutoMapper": {
-              "target": "Package",
-              "version": "[12.0.1, )"
-            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.7, )"
+              "version": "[9.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.7, )"
-            },
-            "Serilog.Sinks.File": {
-              "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[9.0.10, )"
             }
           },
           "imports": [
@@ -299,9 +271,6 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WindowsForms": {
-              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
@@ -420,6 +389,9 @@
             "projectReferences": {
               "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj": {
                 "projectPath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj"
+              },
+              "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj": {
+                "projectPath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj"
               },
               "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj": {
                 "projectPath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\SSEL.MONTERREY.Infrastructure.csproj"

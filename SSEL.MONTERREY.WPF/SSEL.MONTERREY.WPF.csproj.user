@@ -6,9 +6,4 @@
   <PropertyGroup>
     <ActiveDebugProfile>SSEL.MONTERREY.WPF</ActiveDebugProfile>
   </PropertyGroup>
-  <ItemGroup>
-    <Compile Update="MainWindow.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
-  </ItemGroup>
 </Project>

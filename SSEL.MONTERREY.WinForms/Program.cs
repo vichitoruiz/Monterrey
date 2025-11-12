@@ -3,48 +3,58 @@ using Microsoft.Extensions.DependencyInjection;
 using SSEL.MONTERREY.Infrastructure;
 using SSEL.MONTERREY.Application.Services;
 using SSEL.MONTERREY.Application.Interfaces;
-using SSEL.MONTERREY.Licensing; // ✅ Nuevo módulo
+using SSEL.MONTERREY.Licensing;
+using SSEL.MONTERREY.Application.Mappers;
 using AutoMapper;
-using System.Windows.Forms;
 using System;
+using System.Windows.Forms;
 
-namespace SSEL.MONTERREY.WinForms;
-
-internal static class Program
+namespace SSEL.MONTERREY.WinForms
 {
-    [STAThread]
-    static void Main()
+    internal static class Program
     {
-        ApplicationConfiguration.Initialize();
-
-        // 🔧 Carga configuración
-        var builder = new ConfigurationBuilder()
-            .SetBasePath(AppContext.BaseDirectory)
-            .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true);
-        var config = builder.Build();
-
-        // 💡 Configuración de dependencias
-        var services = new ServiceCollection()
-            .AddInfrastructure(config)
-            .AddAutoMapper(typeof(SSEL.MONTERREY.Application.Mappers.AutoMapperProfile))
-            .AddScoped<IUsuarioService, UsuarioService>()
-            .AddScoped<ILecturaService, LecturaService>()
-            .AddScoped<IReciboService, ReciboService>()
-            .AddScoped<IReclamoService, ReclamoService>()
-            .BuildServiceProvider();
-
-        // 🔐 Validación de licencia robusta
-        if (!LicenseValidator.ValidateAtStartup())
+        [STAThread]
+        static void Main()
         {
-            var formLic = new LicenseForm();
-            formLic.ShowDialog();
+            // Inicializa configuración de Windows Forms
+            ApplicationConfiguration.Initialize();
 
-            // Si sigue inválida, detener la app
+            // 1️⃣ Cargar configuración de appsettings.json
+            var configuration = new ConfigurationBuilder()
+                .SetBasePath(AppContext.BaseDirectory)
+                .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true)
+                .Build();
+
+            // 2️⃣ Configurar el contenedor de dependencias (DI)
+            var services = new ServiceCollection();
+
+            // Registrar capas e infraestructura
+            services.AddInfrastructure(configuration);
+
+            // Registrar AutoMapper (mapeos entre entidades y DTOs)
+            services.AddAutoMapper(typeof(AutoMapperProfile));
+
+            // Registrar servicios de aplicación
+            services.AddScoped<IUsuarioService, UsuarioService>();
+            services.AddScoped<ILecturaService, LecturaService>();
+            services.AddScoped<IReciboService, ReciboService>();
+            services.AddScoped<IReclamoService, ReclamoService>();
+
+            // Crear el ServiceProvider
+            var provider = services.BuildServiceProvider();
+
+            // 3️⃣ Validar licencia al inicio
             if (!LicenseValidator.ValidateAtStartup())
-                return;
-        }
+            {
+                using var formLic = new LicenseForm();
+                formLic.ShowDialog();
 
-        // 🚀 Inicia el sistema
-        Application.Run(new Forms.FrmDashboard(services));
+                if (!LicenseValidator.ValidateAtStartup())
+                    return; // detener aplicación si sigue sin licencia
+            }
+
+            // 4️⃣ Ejecutar la aplicación principal
+            Application.Run(new Forms.FrmDashboard(provider));
+        }
     }
 }

@@ -13,6 +13,8 @@
         "packagesPath": "C:\\Users\\Vichitoruiz\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Application\\obj\\",
         "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "CentralPackageTransitivePinningEnabled": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
@@ -35,14 +37,14 @@
             "projectReferences": {
               "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj": {
                 "projectPath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj"
-              },
-              "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\SSEL.MONTERREY.Licensing.csproj": {
-                "projectPath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\SSEL.MONTERREY.Licensing.csproj"
               }
             }
           }
         },
         "warningProperties": {
+          "noWarn": [
+            "NU1507"
+          ],
           "warnAsError": [
             "NU1605"
           ]
@@ -60,8 +62,27 @@
           "dependencies": {
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
-              "version": "[12.0.1, )"
+              "version": "[12.0.1, )",
+              "versionCentrallyManaged": true
             }
+          },
+          "centralPackageVersions": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
+            "coverlet.collector": "6.0.0",
+            "FluentAssertions": "8.8.0",
+            "Microsoft.EntityFrameworkCore": "9.0.10",
+            "Microsoft.EntityFrameworkCore.InMemory": "9.0.10",
+            "Microsoft.EntityFrameworkCore.SqlServer": "9.0.10",
+            "Microsoft.Extensions.Configuration": "9.0.10",
+            "Microsoft.Extensions.Configuration.FileExtensions": "9.0.10",
+            "Microsoft.Extensions.Configuration.Json": "9.0.10",
+            "Microsoft.Extensions.DependencyInjection": "9.0.10",
+            "Microsoft.Extensions.Http": "9.0.10",
+            "Microsoft.NET.Test.Sdk": "17.11.1",
+            "Moq": "4.20.72",
+            "System.Management": "9.0.10",
+            "xunit": "2.5.3",
+            "xunit.runner.visualstudio": "2.5.3"
           },
           "imports": [
             "net461",
@@ -83,9 +104,6 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WindowsForms": {
-              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
@@ -101,6 +119,8 @@
         "packagesPath": "C:\\Users\\Vichitoruiz\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "CentralPackageTransitivePinningEnabled": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
@@ -128,6 +148,9 @@
           }
         },
         "warningProperties": {
+          "noWarn": [
+            "NU1507"
+          ],
           "warnAsError": [
             "NU1605"
           ]
@@ -143,38 +166,53 @@
         "net9.0-windows7.0": {
           "targetAlias": "net9.0-windows7.0",
           "dependencies": {
-            "AutoMapper": {
-              "target": "Package",
-              "version": "[12.0.1, )"
-            },
-            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
-              "target": "Package",
-              "version": "[12.0.1, )"
-            },
             "CSharpMarkup.WinUI.LiveChartsCore.SkiaSharpView": {
               "target": "Package",
-              "version": "[3.1.2, )"
+              "version": "(, )"
             },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
-              "version": "[9.0.10, )"
+              "version": "[9.0.10, )",
+              "versionCentrallyManaged": true
             },
             "Microsoft.Extensions.Configuration.FileExtensions": {
               "target": "Package",
-              "version": "[9.0.10, )"
+              "version": "[9.0.10, )",
+              "versionCentrallyManaged": true
             },
             "Microsoft.Extensions.Configuration.Json": {
               "target": "Package",
-              "version": "[9.0.10, )"
+              "version": "[9.0.10, )",
+              "versionCentrallyManaged": true
             },
             "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
-              "version": "[9.0.10, )"
+              "version": "[9.0.10, )",
+              "versionCentrallyManaged": true
             },
             "Microsoft.Extensions.Http": {
               "target": "Package",
-              "version": "[9.0.10, )"
+              "version": "[9.0.10, )",
+              "versionCentrallyManaged": true
             }
+          },
+          "centralPackageVersions": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
+            "coverlet.collector": "6.0.0",
+            "FluentAssertions": "8.8.0",
+            "Microsoft.EntityFrameworkCore": "9.0.10",
+            "Microsoft.EntityFrameworkCore.InMemory": "9.0.10",
+            "Microsoft.EntityFrameworkCore.SqlServer": "9.0.10",
+            "Microsoft.Extensions.Configuration": "9.0.10",
+            "Microsoft.Extensions.Configuration.FileExtensions": "9.0.10",
+            "Microsoft.Extensions.Configuration.Json": "9.0.10",
+            "Microsoft.Extensions.DependencyInjection": "9.0.10",
+            "Microsoft.Extensions.Http": "9.0.10",
+            "Microsoft.NET.Test.Sdk": "17.11.1",
+            "Moq": "4.20.72",
+            "System.Management": "9.0.10",
+            "xunit": "2.5.3",
+            "xunit.runner.visualstudio": "2.5.3"
           },
           "imports": [
             "net461",
@@ -214,6 +252,8 @@
         "packagesPath": "C:\\Users\\Vichitoruiz\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "CentralPackageTransitivePinningEnabled": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
@@ -234,19 +274,16 @@
           "net9.0-windows7.0": {
             "targetAlias": "net9.0-windows7.0",
             "projectReferences": {
-              "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj": {
-                "projectPath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Application\\SSEL.MONTERREY.Application.csproj"
-              },
               "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj": {
                 "projectPath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Domain\\SSEL.MONTERREY.Domain.csproj"
-              },
-              "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\SSEL.MONTERREY.Licensing.csproj": {
-                "projectPath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\SSEL.MONTERREY.Licensing.csproj"
               }
             }
           }
         },
         "warningProperties": {
+          "noWarn": [
+            "NU1507"
+          ],
           "warnAsError": [
             "NU1605"
           ]
@@ -262,22 +299,34 @@
         "net9.0-windows7.0": {
           "targetAlias": "net9.0-windows7.0",
           "dependencies": {
-            "AutoMapper": {
-              "target": "Package",
-              "version": "[12.0.1, )"
-            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.7, )"
+              "version": "[9.0.10, )",
+              "versionCentrallyManaged": true
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.7, )"
-            },
-            "Serilog.Sinks.File": {
-              "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[9.0.10, )",
+              "versionCentrallyManaged": true
             }
+          },
+          "centralPackageVersions": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
+            "coverlet.collector": "6.0.0",
+            "FluentAssertions": "8.8.0",
+            "Microsoft.EntityFrameworkCore": "9.0.10",
+            "Microsoft.EntityFrameworkCore.InMemory": "9.0.10",
+            "Microsoft.EntityFrameworkCore.SqlServer": "9.0.10",
+            "Microsoft.Extensions.Configuration": "9.0.10",
+            "Microsoft.Extensions.Configuration.FileExtensions": "9.0.10",
+            "Microsoft.Extensions.Configuration.Json": "9.0.10",
+            "Microsoft.Extensions.DependencyInjection": "9.0.10",
+            "Microsoft.Extensions.Http": "9.0.10",
+            "Microsoft.NET.Test.Sdk": "17.11.1",
+            "Moq": "4.20.72",
+            "System.Management": "9.0.10",
+            "xunit": "2.5.3",
+            "xunit.runner.visualstudio": "2.5.3"
           },
           "imports": [
             "net461",
@@ -299,9 +348,6 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WindowsForms": {
-              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
@@ -317,6 +363,8 @@
         "packagesPath": "C:\\Users\\Vichitoruiz\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.Licensing\\obj\\",
         "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "CentralPackageTransitivePinningEnabled": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
@@ -340,6 +388,9 @@
           }
         },
         "warningProperties": {
+          "noWarn": [
+            "NU1507"
+          ],
           "warnAsError": [
             "NU1605"
           ]
@@ -357,8 +408,27 @@
           "dependencies": {
             "System.Management": {
               "target": "Package",
-              "version": "[9.0.10, )"
+              "version": "[9.0.10, )",
+              "versionCentrallyManaged": true
             }
+          },
+          "centralPackageVersions": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
+            "coverlet.collector": "6.0.0",
+            "FluentAssertions": "8.8.0",
+            "Microsoft.EntityFrameworkCore": "9.0.10",
+            "Microsoft.EntityFrameworkCore.InMemory": "9.0.10",
+            "Microsoft.EntityFrameworkCore.SqlServer": "9.0.10",
+            "Microsoft.Extensions.Configuration": "9.0.10",
+            "Microsoft.Extensions.Configuration.FileExtensions": "9.0.10",
+            "Microsoft.Extensions.Configuration.Json": "9.0.10",
+            "Microsoft.Extensions.DependencyInjection": "9.0.10",
+            "Microsoft.Extensions.Http": "9.0.10",
+            "Microsoft.NET.Test.Sdk": "17.11.1",
+            "Moq": "4.20.72",
+            "System.Management": "9.0.10",
+            "xunit": "2.5.3",
+            "xunit.runner.visualstudio": "2.5.3"
           },
           "imports": [
             "net461",
@@ -398,6 +468,8 @@
         "packagesPath": "C:\\Users\\Vichitoruiz\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Vichitoruiz\\Downloads\\Monterrey_FIXED\\Monterrey\\Monterrey\\SSEL.MONTERREY.WPF\\obj\\",
         "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "CentralPackageTransitivePinningEnabled": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
@@ -432,7 +504,7 @@
         },
         "warningProperties": {
           "noWarn": [
-            "NU1701"
+            "NU1507"
           ],
           "warnAsError": [
             "NU1605"
@@ -448,23 +520,23 @@
       "frameworks": {
         "net9.0-windows7.0": {
           "targetAlias": "net9.0-windows7.0",
-          "dependencies": {
-            "LiveChartsCore": {
-              "target": "Package",
-              "version": "[2.0.0-rc5.3, )"
-            },
-            "LiveChartsCore.SkiaSharpView.WPF": {
-              "target": "Package",
-              "version": "[2.0.0-rc5.3, )"
-            },
-            "SkiaSharp": {
-              "target": "Package",
-              "version": "[3.116.1, )"
-            },
-            "SkiaSharp.Views.WPF": {
-              "target": "Package",
-              "version": "[3.116.1, )"
-            }
+          "centralPackageVersions": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
+            "coverlet.collector": "6.0.0",
+            "FluentAssertions": "8.8.0",
+            "Microsoft.EntityFrameworkCore": "9.0.10",
+            "Microsoft.EntityFrameworkCore.InMemory": "9.0.10",
+            "Microsoft.EntityFrameworkCore.SqlServer": "9.0.10",
+            "Microsoft.Extensions.Configuration": "9.0.10",
+            "Microsoft.Extensions.Configuration.FileExtensions": "9.0.10",
+            "Microsoft.Extensions.Configuration.Json": "9.0.10",
+            "Microsoft.Extensions.DependencyInjection": "9.0.10",
+            "Microsoft.Extensions.Http": "9.0.10",
+            "Microsoft.NET.Test.Sdk": "17.11.1",
+            "Moq": "4.20.72",
+            "System.Management": "9.0.10",
+            "xunit": "2.5.3",
+            "xunit.runner.visualstudio": "2.5.3"
           },
           "imports": [
             "net461",
@@ -487,7 +559,7 @@
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             },
-            "Microsoft.WindowsDesktop.App": {
+            "Microsoft.WindowsDesktop.App.WPF": {
               "privateAssets": "none"
             }
           },

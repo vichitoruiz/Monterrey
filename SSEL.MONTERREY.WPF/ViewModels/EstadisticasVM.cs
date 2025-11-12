@@ -4,9 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SSEL.MONTERREY.WPF.ViewModels
+namespace SSEL.MONTERREY.WPF.ViewModels;
+
+internal class EstadisticasVM
 {
-    internal class EstadisticasVM
-    {
-    }
 }

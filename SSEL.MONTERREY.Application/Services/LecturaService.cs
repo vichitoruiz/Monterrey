@@ -1,12 +1,12 @@
 ﻿using AutoMapper;
 using SSEL.MONTERREY.Application.DTOs;
 using SSEL.MONTERREY.Application.Helpers;
-using SSEL.MONTERREY.Application.Interfaces;
 using SSEL.MONTERREY.Infrastructure.Repositories;
+using SSEL.MONTERREY.Application.Interfaces;
 using SSEL.MONTERREY.Domain.Entities;
+using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using System;
 
 namespace SSEL.MONTERREY.Application.Services;
 
@@ -21,13 +21,13 @@ public class LecturaService : ILecturaService
         _mapper = mapper;
     }
 
-    public async Task<IEnumerable<LecturaDTO>> ListarPorPeriodoAsync(string periodo)
+    public async Task<IEnumerable<LecturaDto>> ListarPorPeriodoAsync(string periodo)
     {
         var lecturas = await _repo.GetAsync(l => l.Periodo == periodo);
-        return _mapper.Map<IEnumerable<LecturaDTO>>(lecturas);
+        return _mapper.Map<IEnumerable<LecturaDto>>(lecturas);
     }
 
-    public async Task<Result> RegistrarAsync(LecturaDTO dto)
+    public async Task<Result> RegistrarAsync(LecturaDto dto)
     {
         try
         {

@@ -1,9 +1,8 @@
 using System;
-﻿using System;
 
 namespace SSEL.MONTERREY.Application.DTOs;
 
-public class LecturaDTO
+public class LecturaDto
 {
     public int Id { get; set; }
     public int SuministroId { get; set; }

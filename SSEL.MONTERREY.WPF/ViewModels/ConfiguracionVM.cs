@@ -1,19 +1,52 @@
-﻿using LiveChartsCore;
-using LiveChartsCore.SkiaSharpView;
-using System.Collections.ObjectModel;
+﻿using SSEL.MONTERREY.WPF.Helpers;
+using System.ComponentModel;
+using System.Runtime.CompilerServices;
+using System.Windows.Input;
 
 namespace SSEL.MONTERREY.WPF.ViewModels;
 
-public class EstadisticasVM
+public class ConfiguracionVM : ViewModelBase
 {
-    public ObservableCollection<ISeries> PieSeries { get; set; }
+    private string _nombreSistema = "SSEL Monterrey";
+    private string _rutaArchivos = "C:\\Datos";
 
-    public EstadisticasVM()
+    public string NombreSistema
     {
-        PieSeries = new ObservableCollection<ISeries>
+        get => _nombreSistema;
+        set
         {
-            new PieSeries<double> { Name = "Usuarios al día", Values = new double[]{85} },
-            new PieSeries<double> { Name = "Morosos", Values = new double[]{15} }
-        };
+            if (_nombreSistema != value)
+            {
+                _nombreSistema = value;
+                SetProperty();
+            }
+        }
     }
+
+    public string RutaArchivos
+    {
+        get => _rutaArchivos;
+        set
+        {
+            if (_rutaArchivos != value)
+            {
+                _rutaArchivos = value;
+                SetProperty();
+            }
+        }
+    }
+
+    public ICommand GuardarCommand { get; }
+
+    public ConfiguracionVM()
+    {
+        GuardarCommand = new RelayCommand(_ => Guardar());
+    }
+
+    private void Guardar()
+    {
+        // TODO: Lógica para guardar la configuración
+    }
+
+   
 }

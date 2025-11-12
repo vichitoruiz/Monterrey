@@ -1,9 +1,8 @@
 using System;
-﻿using System;
 
 namespace SSEL.MONTERREY.Application.DTOs;
 
-public class ReciboDTO
+public class ReciboDto
 {
     public int Id { get; set; }
     public string NumeroRecibo { get; set; } = "";

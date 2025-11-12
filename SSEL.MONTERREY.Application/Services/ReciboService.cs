@@ -3,11 +3,11 @@ using SSEL.MONTERREY.Application.DTOs;
 using SSEL.MONTERREY.Application.Helpers;
 using SSEL.MONTERREY.Application.Interfaces;
 using SSEL.MONTERREY.Infrastructure.Repositories;
-using SSEL.MONTERREY.Infrastructure.Services;
+using SSEL.MONTERREY.Domain.Repositories;
 using SSEL.MONTERREY.Domain.Entities;
+using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using System;
 
 namespace SSEL.MONTERREY.Application.Services;
 
@@ -27,10 +27,10 @@ public class ReciboService : IReciboService
         _mapper = mapper;
     }
 
-    public async Task<IEnumerable<ReciboDTO>> ListarPorPeriodoAsync(string periodo)
+    public async Task<IEnumerable<ReciboDto>> ListarPorPeriodoAsync(string periodo)
     {
         var recs = await _repoRecibo.GetAsync(r => r.Periodo == periodo);
-        return _mapper.Map<IEnumerable<ReciboDTO>>(recs);
+        return _mapper.Map<IEnumerable<ReciboDto>>(recs);
     }
 
     public async Task<Result> GenerarReciboAsync(int usuarioId, int lecturaId)
